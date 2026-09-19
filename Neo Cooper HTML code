@@ -1,0 +1,289 @@
+<!-- == NEO COOPER ==== 
+Main colors: #121212, #101010, #0c0c0c (Dark/Black backgrounds)
+Accent colors: #591c1c (Dark Red / Crimson), #dd1111 (Bright Red)
+Text colors: #fff (White), #111 (Dark Charcoal/Black for info box)
+Border/Shadow elements: rgba(0,0,0,0.25) and rgba(0,0,0,0.4)
+
+If you need help changing any of the images or colors, let me know - Serph
+
+All sections are seperated by comments to easily find which one is which
+================== -->
+<div style="max-width: 900px; width: 100%; font-family: times, serif; margin: 3rem auto; text-align: justify; box-sizing: border-box; color: #fff;"><!-- MAIN WRAPPER ROW -->
+<div style="display: flex; flex-wrap: wrap; margin: 0; box-sizing: border-box;">
+<!-- LEFT COLUMN (AVATAR & BASIC INFO) -->
+<div style="flex: 1 1 220px; max-width: 100%; padding: 0.5rem; box-sizing: border-box; display: flex; flex-direction: column;">
+<!-- AVATAR IMAGE -->
+<div style="height: 200px; border-radius: 50px 0px 0px 0px; box-shadow: 8px 8px 0px rgba(0,0,0,0.25); background-image: url('https://cdn.characterhub.com/r/1280w/users/2eeb5eac-8290-4db4-b9f5-60c9ad601035/0de8e1bf-6d80-43ea-b23c-32f2d4fc9867_l'); background-size: cover; background-position: center; background-repeat: no-repeat; margin-bottom: 1rem; flex-shrink: 0;">&nbsp;</div>
+<!-- BASIC INFO START -->
+<div style="position: relative; overflow-y: auto; scrollbar-width: none; box-shadow: inset 8px 8px 0px 0px rgba(0,0,0,0.4); background-image: url('https://cdn.characterhub.com/r/1280w/users/fd9e396d-4c73-4274-90d9-a0085c7a70c7/b17c561d-04ca-4707-bcc3-0692729faeb4_l'); background-size: cover; background-repeat: no-repeat; background-color: #591c1c; color: #111; border: none; height: 505px; box-sizing: border-box;">
+<div style="position: absolute; bottom: -25px; right: -5px; font-weight: 900; font-size: 350%; color: #000; opacity: 0.2; pointer-events: none;">INFO</div>
+<div style="padding: 0.75rem 1rem; box-sizing: border-box;">
+<div style="display: flex; flex-wrap: wrap; margin-bottom: 0.35rem;">
+<div style="flex: 1; min-width: 0;">
+<div style="font-weight: 900;">Chester "Neo" Cooper</div>
+<div style="border-top: 2px solid #111; height: 0; margin-bottom: 0.15rem;">&nbsp;</div>
+<div style="font-style: italic; font-size: 0.85rem;">
+<p style="margin: 0;">FULL NAME</p>
+</div>
+</div>
+</div>
+<div style="display: flex; flex-wrap: wrap; margin-bottom: 0.35rem;">
+<div style="flex: 1; min-width: 0; text-align: right;">
+<div style="font-weight: 900;">'PSYCHOSIS'</div>
+<div style="border-top: 2px solid #111; height: 0; margin-bottom: 0.15rem;">&nbsp;</div>
+<div style="font-style: italic; font-size: 0.85rem;">
+<p style="margin: 0;">ALIAS</p>
+</div>
+</div>
+</div>
+<div style="display: flex; flex-wrap: wrap; margin-bottom: 0.35rem;">
+<div style="flex: 1; min-width: 0;">
+<div style="font-weight: 900;">cisgender male</div>
+<div style="border-top: 2px solid #111; height: 0; margin-bottom: 0.15rem;">&nbsp;</div>
+<div style="font-style: italic; font-size: 0.85rem;">
+<p style="margin: 0;">GENDER</p>
+</div>
+</div>
+</div>
+<div style="display: flex; flex-wrap: wrap; margin-bottom: 0.35rem;">
+<div style="flex: 1; min-width: 0; text-align: right;">
+<div style="font-weight: 900;">he/him</div>
+<div style="border-top: 2px solid #111; height: 0; margin-bottom: 0.15rem;">&nbsp;</div>
+<div style="font-style: italic; font-size: 0.85rem;">
+<p style="margin: 0;">PRONOUNS</p>
+</div>
+</div>
+</div>
+<div style="display: flex; flex-wrap: wrap; margin-bottom: 0.35rem;">
+<div style="flex: 1; min-width: 0;">
+<div style="font-weight: 900;">26</div>
+<div style="border-top: 2px solid #111; height: 0; margin-bottom: 0.15rem;">&nbsp;</div>
+<div style="font-style: italic; font-size: 0.85rem;">
+<p style="margin: 0;">AGE</p>
+</div>
+</div>
+</div>
+<div style="display: flex; flex-wrap: wrap; margin-bottom: 0.35rem;">
+<div style="flex: 1; min-width: 0; text-align: right;">
+<div style="font-weight: 900;">August 6th, 1981</div>
+<div style="border-top: 2px solid #111; height: 0; margin-bottom: 0.15rem;">&nbsp;</div>
+<div style="font-style: italic; font-size: 0.85rem;">
+<p style="margin: 0;">BIRTHDAY</p>
+</div>
+</div>
+</div>
+<div style="display: flex; flex-wrap: wrap; margin-bottom: 0.35rem;">
+<div style="flex: 1; min-width: 0;">
+<div style="font-weight: 900;">Gay <img style="height: 14px; vertical-align: middle;" src="https://i.imgur.com/P6NCudC.png" alt="P6NCudC.png"></div>
+<div style="border-top: 2px solid #111; height: 0; margin-bottom: 0.15rem;">&nbsp;</div>
+<div style="font-style: italic; font-size: 0.85rem;">
+<p style="margin: 0;">ORIENTATION</p>
+</div>
+</div>
+</div>
+<div style="display: flex; flex-wrap: wrap; margin-bottom: 0.35rem;">
+<div style="flex: 1; min-width: 0; text-align: right;">
+<div style="font-weight: 900;">Postdoctoral Researcher</div>
+<div style="border-top: 2px solid #111; height: 0; margin-bottom: 0.15rem;">&nbsp;</div>
+<div style="font-style: italic; font-size: 0.85rem;">
+<p style="margin: 0;">OCCUPATION</p>
+</div>
+</div>
+</div>
+<div style="display: flex; flex-wrap: wrap; margin-bottom: 0.35rem;">
+<div style="flex: 1; min-width: 0;">
+<div style="font-weight: 900;">Gotham City</div>
+<div style="border-top: 2px solid #111; height: 0; margin-bottom: 0.15rem;">&nbsp;</div>
+<div style="font-style: italic; font-size: 0.85rem;">
+<p style="margin: 0;">RESIDENCE</p>
+</div>
+</div>
+</div>
+<div style="display: flex; flex-wrap: wrap; margin-bottom: 0rem;">
+<div style="flex: 1; min-width: 0; text-align: right;">
+<div style="font-weight: 900;">Dr. Jonathan Crane</div>
+<div style="border-top: 2px solid #111; height: 0; margin-bottom: 0.15rem;">&nbsp;</div>
+<div style="font-style: italic; font-size: 0.85rem;">
+<p style="margin: 0;">SIGNIFICANT OTHER</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- BASIC INFO END --></div>
+<!-- RIGHT COLUMN -->
+<div style="flex: 3 1 450px; max-width: 100%; box-sizing: border-box;">
+<div style="display: flex; flex-wrap: wrap; margin: 0; box-sizing: border-box;"><!-- TOP CONTENT (NAME & QUOTE CARDS) -->
+<div style="flex: 1 1 300px; max-width: 100%; padding: 0.5rem; box-sizing: border-box;"><!-- NAME CARD -->
+<div style="border: none; padding: 1rem; margin-bottom: 1rem; border-radius: 0px 50px 0px 0px; box-shadow: 8px 8px 0px rgba(0,0,0,0.25); color: #fff; text-shadow: 3px 3px 0px #000; overflow: hidden; background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://cdn.characterhub.com/users/fd9e396d-4c73-4274-90d9-a0085c7a70c7/37ce6dbd-c815-419b-a508-facf12e98658_l'); background-size: cover; background-position: bottom; background-repeat: no-repeat; position: relative; box-sizing: border-box;">
+<div style="font-size: 500%; color: #591c1c; opacity: 0.2; position: absolute; right: 0px; bottom: -20px; transform: rotate(25deg); pointer-events: none;">&nbsp;</div>
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
+<div style="flex: 1; min-width: 0;">
+<p style="font-size: 150%; font-weight: 900; margin: 0 0 0.5rem 0;">☣ DR. NEO COOPER</p>
+<p style="font-style: italic; font-size: 0.875rem; margin-top: -0.75rem; margin-bottom: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">'PSYCHOSIS'</p>
+</div>
+</div>
+</div>
+<!-- QUOTE CARD -->
+<div style="display: flex; flex-wrap: wrap; box-sizing: border-box;">
+<div style="flex: 0 0 70px; max-width: 25%; display: flex; box-sizing: border-box;">
+<div style="border-radius: 0; border: none; padding: 0.5rem; width: 100%; min-height: 150px; box-shadow: 8px 8px 0px rgba(0,0,0,0.25); background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://cdn.characterhub.com/r/1280w/users/fd9e396d-4c73-4274-90d9-a0085c7a70c7/5cc74734-e070-49fc-b6d1-1e545a4c1788_l'); background-size: cover; background-position: center; background-repeat: no-repeat;">&nbsp;</div>
+</div>
+<div style="flex: 1 1 200px; padding-left: 1rem; box-sizing: border-box;">
+<div style="min-height: 200px; overflow: hidden; border-radius: 0px 0px 50px 0px; box-shadow: inset 8px 8px 0px rgba(0,0,0,0.25); background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.7)), url('https://cdn.characterhub.com/r/1280w/users/fd9e396d-4c73-4274-90d9-a0085c7a70c7/ae345727-b765-4f50-ba0f-7f157bbb0d99_l'); background-size: cover; background-position: center; text-shadow: 3px 3px 0px #000; color: #fff; padding: 1.5rem; position: relative; display: flex; align-items: center; justify-content: center; box-sizing: border-box;">
+<p style="margin: auto; text-align: center; font-style: italic; z-index: 1;">I am <span style="color: #dd1111; font-weight: 900;">Schrodinger's perception of time.</span></p>
+<div style="position: absolute; bottom: -25px; left: -5px; font-weight: 900; font-size: 350%; color: #591c1c; opacity: 0.2; pointer-events: none;">QUOTE...</div>
+</div>
+</div>
+</div>
+</div>
+<!-- RIGHT SIDE PANEL (200x400) -->
+<div style="flex: 0 0 130px; max-width: 100%; padding: 0.5rem; box-sizing: border-box;">
+<div style="border: none; padding: 0.5rem; height: 355px; border-radius: 0px 0px 50px 0px; box-shadow: 8px 8px 0px rgba(0,0,0,0.25); background-image: url('https://i.pinimg.com/736x/b4/ef/ac/b4efac933b9e4a1081f3c66ac469d94a.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat;">&nbsp;</div>
+</div>
+</div>
+<!-- MAIN INFO & ABOUT SECTION -->
+<div style="display: flex; flex-wrap: wrap; margin-top: 0.5rem; box-sizing: border-box;">
+<div style="flex: 0 0 100%; max-width: 100%; padding: 0.5rem; box-sizing: border-box;">
+<div style="border: none; border-radius: 0; min-height: 350px; box-shadow: inset 8px 8px 0px rgba(0,0,0,0.25); background-image: linear-gradient(to bottom, #121212, #101010); color: #fff; overflow: hidden; position: relative; box-sizing: border-box;">
+<div style="display: flex; flex-wrap: wrap; height: 100%;">
+<div style="flex: 1 1 200px; max-width: 100%; padding-left: 0; box-sizing: border-box; position: relative;">
+<div style="border-radius: 0; border: none; background-image: url('https://cdn.characterhub.com/r/1280w/users/d684eca8-2554-4082-bd89-41266a57b236/b18399cf-f956-425f-baa3-9c91c5584689_l'); background-size: cover; background-position: center; min-height: 250px; height: 100%; box-shadow: 8px 0px 0px rgba(0,0,0,0.25); position: relative; box-sizing: border-box;"><!-- ARTIST CREDIT LINK -->
+<div style="position: absolute; bottom: 10px; left: 10px; z-index: 2; font-size: 0.75rem; text-shadow: 2px 2px 2px #000;"><a style="color: #fff; text-decoration: none; font-weight: bold;" href="/profile/.Nikolai." target="blank">ART BY .Nikolai.</a></div>
+</div>
+</div>
+<div style="flex: 2 1 250px; min-width: 0; box-sizing: border-box;">
+<div style="max-height: 350px; overflow-y: auto; scrollbar-width: thin; scrollbar-color: #591c1c #121212; box-sizing: border-box; padding: 0 1.5rem;">
+<div style="padding: 0.5rem; margin-top: 1rem; border: none; border-radius: 0; background-image: linear-gradient(to right, #591c1c 0%, #111111 100%); max-width: 75%; font-size: 150%; font-weight: 900; text-shadow: 3px 3px 0px #000;">BACKGROUND</div>
+<div style="padding: 1.5rem 0;">
+<p style="margin-top: 0;">Neo Cooper grew up in a middle of nowhere small town in Missouri. Surrounded by acres apon acres of farmland as far as the young boy could see, he found his solitude alone in his room listening to music and re-watching whatever dvd his dad had let him borrow.</p>
+<p>School was rough for him, not because he wasnt smart, but because school bored him. He learned very quickly, so he just lost interest in anything they were teaching, focusing more on making imaginary worlds in his head than assignments. His grades dropped, but only slightly.&nbsp;</p>
+<p>From an A+ honors student to an A-B honors student. Boredom wasnt the only thing keeping his mind off of scholwork, tension between friends in his friendgroup and constant drama and bickering left him mentally ehausted. Although he tried to stay out of it, his at the time closest friend, Isabella, would always find a way to drag him into the conflict.</p>
+<hr style="border: none; border-top: 1px solid #591c1c; margin: 1.5rem 0;">
+<p>Isabella was an influential character in his past to say the least, not only was she a terrible friend, she was a pathalogical liar. Neo would try to be polite and agree with her on things to avoid conflict. He did this often, conforming to what others wanted from him instead of what he really thought or who he really was.</p>
+<p>Isa was always finding a reason to talk shit about someone, often making up something just to start drama. Neo was very uncomfortable with this, as he was with any drama, but he chose not to do anything because she was his closest friend.</p>
+<p>If he lost her, he really wouldnt have anyone with a deeper than surface level connection. She exploited this.</p>
+<p>She started behaving.. strangely towards him. And all of her other friends for that matter. She would show him.. things he didnt want to see to say the least, and overall she just treated him less like a genuine friend and more like someone to entertain herself with.</p>
+<p>This among other factors caused Neo to move to homeschooling at the age of 11, the start of 6th grade. He still associated himself with her, but tried to keep his distance whenever possible. He became a lot closer with another friend, Bunni. They had known eachother throughout elementary school, but werent as close as they would become.&nbsp;</p>
+<hr style="border: none; border-top: 1px solid #591c1c; margin: 1.5rem 0;">
+<p>A few weeks later, Jessie went missing.</p>
+<p>He left his work jacket hanging on the back of a rocking chair on the porch, a lighter in the front pocket, and thats all that was found of him. Neo was devistated. <br><br>His father was someone he looked up to, someone he strived to be like; and the grief of losing someone so important to him sent him into a depressive episode. One that lasted a while.</p>
+<p>He lost his passion for most things, including the stars, and completely shut out the world. The only person he willingly interracted with during this time period was Bunni. <br><br>The thing that re-started his passion was finding his old cosmos dvd. He tried getting back into old interests, finding new music and movies was his favorite pasttime. He gained an interest in cinematogrophy, and in fact made a few short films himself- most of which were lost to time.&nbsp;</p>
+<p>He had always had problems with his joints, but from 15 on, his conditioned worsened. Going from doctor to doctor trying to figure out what was going on. It honestly just got annoying. <br><br>He got a diagnosis a few years later, H-EDS, dysautonomia, and MCAS. He had to make changes to his lifestyle, any heat or activity would make him feel terrible, so he got weaker.<br><br></p>
+<p>Through getting a proper diagnosis and treatment, his condition stabilised. It still wasnt great, but it was better- he would use forearm crutches and occasionally a wheelchair for mobility. His mental health was affected as well- this is when his.. episodes started. Caused by his OCD, Neo's episodes present similarly to mania or.. psychosis. <br><br>They usually started with a simple thing, needing to cut his hair- paint his room or similar things, but the issue would quickly spiral out of preportion, often ending with Neo's violent intrusive thoughts overwhelming him before he eventually falls asleep. He ususally dosent remember bad episodes when he wakes up.&nbsp;</p>
+<hr style="border: none; border-top: 1px solid #591c1c; margin: 1.5rem 0;">
+<p>Bunni and Neo moved in together when they went to collage, they had planned this for years- since both of them were around 12. It was easier money-wise, plus Neo got to hang out with his best friend often. Collage was fun and engaging for Neo, unlike other schooling, it challanged his intelect and forced him to come up with creative solutions to his problems. <br><br>His passion in theoretical astrophysics never really went away- he was happiest researching for his classes with some Tarantino movie on in the background, usually Reservior Dogs.</p>
+<p>A few years after he graduated, at the age of 26, he was offered a job researching at Gotham university- Neo was <em>ecstatic.&nbsp;</em>A job in a big city in a well known university was a dream come true.&nbsp;Neo and Pinky moved to Gotham later that month, Neo getting his researching job.&nbsp;</p>
+<p>Thats where Neo met Dr. Jonathan Crane- a 29 year old psychology professor with a nice voice and an interest in fear... This is where his main story picks up.</p>
+</div>
+<div style="padding: 0.5rem; border: none; border-radius: 0; background-image: linear-gradient(to right, #591c1c 0%, #111111 100%); max-width: 75%; font-size: 150%; font-weight: 900; text-shadow: 3px 3px 0px #000;">CREATORS NOTE</div>
+<div style="padding-top: 1.5rem; padding-bottom: 1.5rem;">
+<ul style="margin: 0; padding-left: 1.25rem;">
+<li style="margin-bottom: 0.5rem;">Just a general note- most events in his backstory are based on my own life and experiences, some characters are heavily based on real people [using different names ofc]</li>
+<li style="margin-bottom: 0.5rem;">Neo is pretty much me- a sona/self insert and [ALMOST!!!**] everything about him is accurate to myself.</li>
+<li style="margin-bottom: 0.5rem;">**his 'villan' [anti-hero] persona, 'Psychosis' is a manifestation of my OCD- I promise Im not evil irl TwT</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div style="font-weight: 900; font-size: 500%; color: #591c1c; opacity: 0.2; position: absolute; bottom: -25px; right: -15px; transform: rotate(-15deg); pointer-events: none;">&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- LOWER SECTION: DESIGN & MOODBOARDS -->
+<div style="display: flex; flex-wrap: wrap; margin-top: 0; box-sizing: border-box;"><!-- DESIGN & MUSIC PLAYER COLUMN -->
+<div style="flex: 1 1 300px; max-width: 100%; box-sizing: border-box;"><!-- DESIGN CARD -->
+<div style="padding: 0.5rem; box-sizing: border-box;">
+<div style="height: 400px; border-radius: 0px 50px 0px 0px; box-shadow: inset 8px 8px 0px rgba(0,0,0,0.25); overflow: hidden; background-color: #0c0c0c; background-image: url('https://i.imgur.com/uTR0BAM.png'); background-size: cover; background-position: fit; background-repeat: no-repeat; position: relative; display: flex; flex-direction: column; box-sizing: border-box;">
+<div style="background-color: rgba(0,0,0,0.65); max-height: 190px; width: 100%; overflow-y: auto; scrollbar-width: none; padding: 1.2rem; box-sizing: border-box;">
+<div style="background-color: #591c1c; border-radius: 0px 0px 0px 50px; width: 75%; font-size: 150%; font-weight: 900; text-shadow: 3px 3px 0px #000; padding: 0.5rem 1rem; text-align: right; margin-left: auto; margin-bottom: 1rem;">DESIGN</div>
+<!-- COLOUR PALETTE -->
+<div style="box-shadow: 8px 8px 0px rgba(0,0,0,0.25); margin-bottom: 1rem; display: flex;">
+<div style="flex: 1; height: 25px; background-color: #fff;">&nbsp;</div>
+<div style="flex: 1; height: 25px; background-color: #ccc;">&nbsp;</div>
+<div style="flex: 1; height: 25px; background-color: #999;">&nbsp;</div>
+<div style="flex: 1; height: 25px; background-color: #666;">&nbsp;</div>
+<div style="flex: 1; height: 25px; background-color: #333;">&nbsp;</div>
+<div style="flex: 1; height: 25px; background-color: #000;">&nbsp;</div>
+</div>
+<ul style="padding-left: 1.25rem; margin-top: 0; margin-bottom: 1rem;">
+<li style="margin-bottom: 0.5rem;">Short slightly curly dyed red hair.</li>
+<li style="margin-bottom: 0.5rem;">Grey/silver eyes and multiple piercings.
+<ul style="list-style-type: circle; margin-top: 0.25rem; padding-left: 1.25rem;">
+<li style="margin-bottom: 0.25rem;">Eyebrow piercing</li>
+<li style="margin-bottom: 0.25rem;">Industrial piercing</li>
+<li style="margin-bottom: 0.25rem;">Snakebites</li>
+<li style="margin-bottom: 0.25rem;">Two lobe piercings</li>
+</ul>
+</li>
+<li style="margin-bottom: 0.5rem;">Cybercigilism/cyber-tribal v-line tattoos.</li>
+<li style="margin-bottom: 0.5rem;">Glasses, watch, spiked cuff, tie, and gas mask.</li>
+</ul>
+<!-- pagedoll -->
+<div style="text-align: center; margin-top: 1rem; margin-bottom: 0.25rem;"><img style="max-width: 300px; height: auto; border-radius: 10px;" src="https://cdn.characterhub.com/r/1280w/users/2eeb5eac-8290-4db4-b9f5-60c9ad601035/4c3df7ee-828a-4448-8765-0de23607d50c_l"></div>
+<!-- art credit link -->
+<div style="text-align: center; font-size: 0.75rem; text-shadow: 2px 2px 2px #000; margin-bottom: 0.5rem;"><a style="color: #fff; text-decoration: none; font-weight: bold;" href="/editor/character/YOUR_ARTIST_PROFILE_LINK_HERE" target="_blank" rel="noopener">ART BY anerellete</a></div>
+</div>
+<!-- STATIC LIKES / DISLIKES FOOTER -->
+<div style="background-color: rgba(0,0,0,0.85); flex: 1; padding: 1rem; display: flex; gap: 1rem; overflow: hidden; box-sizing: border-box;">
+<div style="flex: 1; background-color: #591c1c; background-image: url('https://cdn.characterhub.com/r/1280w/users/fd9e396d-4c73-4274-90d9-a0085c7a70c7/b17c561d-04ca-4707-bcc3-0692729faeb4_l'); background-size: cover; background-repeat: no-repeat; border-radius: 0px 0px 0px 30px; padding: 0.75rem 1rem; box-shadow: 4px 4px 0px rgba(0,0,0,0.25); color: #fff; display: flex; flex-direction: column; overflow: hidden; box-sizing: border-box;">
+<div style="background-image: linear-gradient(to right, rgba(0, 0, 0, 0.7) 0%, transparent 100%); padding: 0.3rem 0.5rem; font-weight: 900; margin-bottom: 0.5rem; text-shadow: 2px 2px 0px #000; text-transform: uppercase; flex-shrink: 0;">Likes</div>
+<ul style="margin: 0; padding-left: 1rem; font-size: 0.85rem; overflow-y: auto; scrollbar-width: none; flex: 1; color: #111111; font-weight: bold;">
+<li>cinema</li>
+<li>math</li>
+<li>space</li>
+<li>home-cooked meals</li>
+<li>peppermint things</li>
+<li>fire</li>
+<li>acceptance</li>
+<li>music</li>
+</ul>
+</div>
+<div style="flex: 1; background-color: #591c1c; background-image: url('https://cdn.characterhub.com/r/1280w/users/fd9e396d-4c73-4274-90d9-a0085c7a70c7/b17c561d-04ca-4707-bcc3-0692729faeb4_l'); background-size: cover; background-repeat: no-repeat; border-radius: 30px 0px 0px 0px; padding: 0.75rem 1rem; box-shadow: 4px 4px 0px rgba(0,0,0,0.25); color: #fff; display: flex; flex-direction: column; overflow: hidden; box-sizing: border-box;">
+<div style="background-image: linear-gradient(to right, rgba(0, 0, 0, 0.7) 0%, transparent 100%); padding: 0.3rem 0.5rem; font-weight: 900; margin-bottom: 0.5rem; text-shadow: 2px 2px 0px #000; text-transform: uppercase; flex-shrink: 0;">Dislikes</div>
+<ul style="margin: 0; padding-left: 1rem; font-size: 0.85rem; overflow-y: auto; scrollbar-width: none; flex: 1; color: #111111; font-weight: bold;">
+<li>strong scents</li>
+<li>most people</li>
+<li>the inherent human need to sleep</li>
+<li>art block</li>
+<li>bullies</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<!-- MUSIC PLAYER -->
+<div style="padding: 0.5rem; box-sizing: border-box;">
+<div style="height: 120px; border-radius: 30px 0px 0px 0px; box-shadow: 8px 8px 0px rgba(0,0,0,0.25); color: #fff; text-shadow: 3px 3px 0px #000; overflow: hidden; background-color: #000; display: flex; align-items: center; justify-content: space-between; padding: 0 1.5rem; box-sizing: border-box;">
+<div>
+<div style="font-size: 150%; font-weight: 900;">It's Been Awhile</div>
+<div style="font-size: 85%;">Staind</div>
+</div>
+<div style="width: 220px; height: 90px; flex-shrink: 0; background-color: #591c1c; border-radius: 0px 20px 0px 0px; overflow: hidden; display: flex; align-items: center; justify-content: center; box-shadow: inset 4px 4px 0px rgba(0,0,0,0.25);"><video style="width: 100%; height: 100%; object-fit: cover;" src="https://file.garden/ZlwiKgzAvyz0wLRz/moviegallery/ItsBeenAWhile.mp4" loop="loop" controls="controls"></video></div>
+</div>
+</div>
+</div>
+<!-- MOODBOARD COLUMN -->
+<div style="flex: 1 1 300px; max-width: 100%; display: flex; flex-direction: column; box-sizing: border-box;">
+<div style="padding: 0.5rem; box-sizing: border-box;">
+<div style="height: 160px; border-radius: 0px 50px 0px 0px; box-shadow: 8px 8px 0px rgba(0,0,0,0.25); background-image: url('https://cdn.characterhub.com/r/1280w/users/2eeb5eac-8290-4db4-b9f5-60c9ad601035/aba0fc69-0875-42d2-a6b6-97570c0be5a9_l'); background-size: cover; background-position: center;">&nbsp;</div>
+</div>
+<div style="display: flex; flex-wrap: wrap; box-sizing: border-box;">
+<div style="flex: 1 1 140px; padding: 0.5rem; box-sizing: border-box;">
+<div style="height: 150px; box-shadow: 8px 8px 0px rgba(0,0,0,0.25); background-image: url('https://cdn.characterhub.com/r/1280w/users/2eeb5eac-8290-4db4-b9f5-60c9ad601035/71b6e8ea-7c43-4504-958c-ca2154b96329_l'); background-size: cover; background-position: center;">&nbsp;</div>
+</div>
+<div style="flex: 1 1 140px; padding: 0.5rem; box-sizing: border-box;">
+<div style="height: 150px; box-shadow: 8px 8px 0px rgba(0,0,0,0.25); background-image: url('https://cdn.characterhub.com/r/1280w/users/2eeb5eac-8290-4db4-b9f5-60c9ad601035/8637bcea-76b1-42a2-af84-cc4f3c7739a6_l'); background-size: cover; background-position: center;">&nbsp;</div>
+</div>
+</div>
+<div style="padding: 0.5rem; box-sizing: border-box;">
+<div style="height: 160px; border-radius: 0px 0px 50px 0px; box-shadow: 8px 8px 0px rgba(0,0,0,0.25); background-image: url('https://cdn.characterhub.com/r/1280w/users/2eeb5eac-8290-4db4-b9f5-60c9ad601035/89e63f42-8cd9-4ad8-b9e2-09ccf6c0d9f9_l'); background-size: cover; background-position: center;">&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+<!-- CREDIT; ANYTHING BELOW THIS CAN BE REMOVED -->
+<div style="text-align: center; font-size: 0.75rem; color: #4e4141; margin-top: 1.5rem; font-family: times, serif;">coded by: <a href="/profile/serph" target="_blank" rel="noopener"><img style="height: 16px; vertical-align: middle; display: inline-block;" src="https://cdn.characterhub.com/users/2eeb5eac-8290-4db4-b9f5-60c9ad601035/d10043e2-39fd-4f21-922b-5b733b6dd109_l" alt="layout credit"></a></div>
