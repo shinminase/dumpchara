@@ -256,7 +256,7 @@ Border/Shadow elements: rgba(0,0,0,0.25) and rgba(0,0,0,0.4)
 <div style="font-size: 130%; font-weight: 900;">It's Been Awhile</div>
 <div style="font-size: 85%;">Staind</div>
 </div>
-<div style="flex: 1 1 180px; max-width: 100%; height: 80px; background-color: #591c1c; border-radius: 0px 20px 0px 0px; overflow: hidden; display: flex; align-items: center; justify-content: center; box-shadow: inset 4px 4px 0px rgba(0,0,0,0.25);"><video style="width: 100%; height: 100%; object-fit: cover;" src="https://file.garden/ZlwiKgzAvyz0wLRz/moviegallery/ItsBeenAWhile.mp4" loop="loop" controls="controls"></video></div>
+<div style="flex: 1 1 180px; max-width: 100%; height: 80px; background-color: #591c1c; border-radius: 0px 20px 0px 0px; overflow: hidden; display: flex; align-items: center; justify-content: center; box-shadow: inset 4px 4px 0px rgba(0,0,0,0.25);"><video style="width: 100%; height: 100%; object-fit: cover;" src="https://file.garden/ZlwiKgzAvyz0wLRz/moviegallery/ItsBeenAWhile.mp4" controls="controls"></video></div>
 </div>
 </div>
 </div>
