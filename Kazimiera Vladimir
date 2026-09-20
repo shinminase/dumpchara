@@ -1,0 +1,101 @@
+<!-- == KAZIMIERA VLADIMIR ==== 
+Main background: #0d0d0d (Dark/Black background)
+Accent / Border / Button colors: #bc4c4c (Primary Crimson Red), #661e1e (Darker Red accents)
+Text colors: #e0e0e0 (Main text), #8a8a8a (Subtext/Quotes)
+=========================== -->
+<!-- OUTER BORDER FRAMEWRAPPER -->
+<div style="max-width: 860px; margin: 10px auto; border-style: solid; border-width: clamp(15px, 4vw, 35px); border-image-source: url('https://solaria.neocities.org/guides/borderimage/blacklacelarge.png'); border-image-slice: 35; border-image-repeat: round; background-color: transparent;"><!-- MAIN CONTAINER WRAPPER -->
+<div style="background-color: #0d0d0d; color: #e0e0e0; font-family: 'Georgia', serif; padding: clamp(15px, 5vw, 30px);"><!-- TOP SECTION: Character Info & Biography -->
+<div style="display: flex; flex-wrap: wrap-reverse; gap: 30px; margin-bottom: 30px; align-items: flex-start;"><!-- LEFT COLUMN: Main Character Art & Quick Stats -->
+<div style="flex: 1; min-width: min(100%, 280px); text-align: center;"><!-- MAIN CHARACTER ART IMAGE -->
+<div style="height: auto; max-height: 450px; display: flex; align-items: flex-end; justify-content: center; margin-bottom: 15px;"><img style="max-width: 100%; height: auto; max-height: 450px; object-fit: contain; filter: drop-shadow(1px 1px 0 #bc4c4c) drop-shadow(-1px -1px 0 #bc4c4c) drop-shadow(1px -1px 0 #bc4c4c) drop-shadow(-1px 1px 0 #bc4c4c) drop-shadow(0 10px 15px rgba(0,0,0,0.9));" src="https://cdn.characterhub.com/r/1280w/users/d7be8c1d-2f90-4d9d-a47c-4162ba9c4843/8e68b17a-017e-45ff-94a2-19d73b8406d6"></div>
+<!-- ARTIST CREDIT BUTTON (MAIN ART) -->
+<div style="margin-bottom: 20px;"><a style="text-decoration: none; color: #bc4c4c; border: 1px solid #661e1e; padding: 5px 15px; font-size: 0.7rem; text-transform: uppercase; letter-spacing: 1px; background: rgba(0,0,0,0.5); display: inline-block;" href="/profile/Rixto_chan">Art by <em>Rixto_chan</em></a></div>
+<!-- QUICK STATS BOX (Nickname, Birthday, Height, Weapons) -->
+<div style="text-align: left; font-size: 0.85rem; background: rgba(20,20,20,0.5); padding: 15px; border: 1px solid #444;">
+<div style="border-bottom: 1px solid #661e1e; padding-bottom: 3px; margin-bottom: 5px;"><strong style="color: #bc4c4c; text-transform: uppercase; font-size: 0.7rem;">NICKNAME</strong> <span style="float: right;">Kazie</span></div>
+<div style="border-bottom: 1px solid #661e1e; padding-bottom: 3px; margin-bottom: 5px;"><strong style="color: #bc4c4c; text-transform: uppercase; font-size: 0.7rem;">BIRTHDAY</strong> <span style="float: right;">April 2nd</span></div>
+<div style="border-bottom: 1px solid #661e1e; padding-bottom: 3px; margin-bottom: 5px;"><strong style="color: #bc4c4c; text-transform: uppercase; font-size: 0.7rem;">Height</strong> <span style="float: right;">173cm | 5'8ft</span></div>
+<div style="border-bottom: 1px solid #661e1e; padding-bottom: 3px;"><strong style="color: #bc4c4c; text-transform: uppercase; font-size: 0.7rem;">WEAPONS</strong> <span style="float: right;">Pistols, Daggers</span></div>
+</div>
+</div>
+<!-- RIGHT COLUMN: Title, Tags, Bio, Likes & Dislikes -->
+<div style="flex: 1.5; min-width: min(100%, 280px);"><!-- CHARACTER NAME & QUOTE HEADER -->
+<div style="text-align: right; border-bottom: 4px double #661e1e; padding-bottom: 15px; margin-bottom: 20px;">
+<h1 style="margin: 0; font-variant: small-caps; letter-spacing: 2px; font-size: clamp(1.6rem, 5vw, 2.8rem); color: #bc4c4c; text-shadow: 1px 1px 2px #661e1e; line-height: 1.1;">Kazimiera Vladimir</h1>
+<div style="font-style: italic; color: #8a8a8a; font-size: 0.95rem; margin-top: 5px;">"Respect is earned, not given. Treat people how you want to be treated."</div>
+</div>
+<!-- BADGES / TAGS (Pronouns, Age, Sexuality, Icon) -->
+<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 20px; justify-content: flex-end;"><img style="height: 22px; vertical-align: middle;" src="https://cdn.characterhub.com/r/1280w/users/fd9e396d-4c73-4274-90d9-a0085c7a70c7/3860290d-069b-46d9-bec7-d687f98f7680_l"> <span style="border: 1px solid #bc4c4c; color: #e0e0e0; padding: 4px 10px; font-size: 0.7rem; font-weight: bold; background: #1a1a1a;">SHE/HER</span> <span style="border: 1px solid #bc4c4c; color: #e0e0e0; padding: 4px 10px; font-size: 0.7rem; font-weight: bold; background: #1a1a1a;">28 Y/O</span> <span style="border: 1px solid #bc4c4c; color: #e0e0e0; padding: 4px 10px; font-size: 0.7rem; font-weight: bold; background: #1a1a1a;">AROACE</span></div>
+<!-- SCROLL TO READ TAG -->
+<div style="text-align: left;"><span style="background: #bc4c4c; color: #0d0d0d; font-size: 0.6rem; text-transform: uppercase; font-weight: bold; letter-spacing: 1px; padding: 3px 10px; border-radius: 5px 5px 0 0; display: inline-block; margin-left: 10px; border: 1px solid #bc4c4c; border-bottom: none;">&nbsp;scroll to read full</span></div>
+<!-- BIOGRAPHY / DESCRIPTION TEXT BOX -->
+<div style="background: rgba(20, 20, 20, 0.8); padding: 20px; border: 1px solid #444; box-shadow: inset 0 0 15px #000; height: clamp(200px, 40vh, 300px); overflow-y: auto; scrollbar-width: thin; scrollbar-color: #bc4c4c #0d0d0d;">
+<p style="text-align: justify; margin: 0; line-height: 1.5; font-size: 0.85rem;"><span style="float: left; font-size: 40px; line-height: 35px; color: #bc4c4c; margin-right: 10px; font-weight: bold;">K</span>azimiera is a woman forged by hardship, her resilience tempered like steel in the crucible of experience... [bio text continues] ...as she truly is.</p>
+</div>
+<!-- LIKES & DISLIKES SECTION ; CHANGED SO IT CAN SCROLL AND HOLD MORE -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 140px), 1fr)); gap: 15px; margin-top: 25px;"><!-- LIKES LIST -->
+<div style="border-top: 1px solid #bc4c4c; padding-top: 10px;"><strong style="color: #bc4c4c; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 1px;">Likes</strong>
+<div style="max-height: 90px; overflow-y: auto; scrollbar-width: thin; scrollbar-color: #bc4c4c #0d0d0d; margin-top: 8px; padding-right: 4px;">
+<ul style="margin: 0 0 0 15px; padding: 0; font-size: 0.85rem; list-style-type: square; color: #e0e0e0; line-height: 1.4;">
+<li>Small trinkets</li>
+<li>Efficiency</li>
+<li>Faye <span style="font-size: 0.7rem; color: #8a8a8a;">(when she's not acting immature)</span></li>
+</ul>
+</div>
+</div>
+<!-- DISLIKES LIST -->
+<div style="border-top: 1px solid #bc4c4c; padding-top: 10px;"><strong style="color: #bc4c4c; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 1px;">Dislikes</strong>
+<div style="max-height: 90px; overflow-y: auto; scrollbar-width: thin; scrollbar-color: #bc4c4c #0d0d0d; margin-top: 8px; padding-right: 4px;">
+<ul style="margin: 0 0 0 15px; padding: 0; font-size: 0.85rem; list-style-type: square; color: #e0e0e0; line-height: 1.4;">
+<li>Small talk</li>
+<li>Politics</li>
+<li>Her parents</li>
+<li>Not being listened to</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- BOTTOM SECTION: Aesthetics, Hobbies, Quotes & Secondary Portrait -->
+<div style="display: flex; flex-wrap: wrap; gap: 20px; border-top: 2px dashed #444; padding-top: 25px;"><!-- LEFT SUB-SECTION: Visual Aesthetics Grid, Hobbies & Quotes -->
+<div style="flex: 2; min-width: min(100%, 280px); display: flex; flex-direction: column; gap: 15px;">
+<h3 style="font-size: 0.8rem; color: #bc4c4c; text-transform: uppercase; letter-spacing: 2px; text-align: left; margin: 0;">Visual Aesthetics</h3>
+<!-- 4-GRID AESTHETIC IMAGES -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(65px, 1fr)); gap: 8px;">
+<div style="aspect-ratio: 1/1; background: url('https://cdn.characterhub.com/r/1280w/users/d7be8c1d-2f90-4d9d-a47c-4162ba9c4843/f1006416-b79b-45ce-813d-44f88feeaf2f_l') center/cover; border: 1px solid #bc4c4c;">&nbsp;</div>
+<div style="aspect-ratio: 1/1; background: url('https://cdn.characterhub.com/r/1280w/users/d7be8c1d-2f90-4d9d-a47c-4162ba9c4843/f3bacdf9-1801-483b-9c55-05b639dd4f56_l') center/cover; border: 1px solid #bc4c4c;">&nbsp;</div>
+<div style="aspect-ratio: 1/1; background: url('https://cdn.characterhub.com/r/1280w/users/d7be8c1d-2f90-4d9d-a47c-4162ba9c4843/56b8d63a-0d79-4a16-aada-f4952aee5298_l') center/cover; border: 1px solid #bc4c4c;">&nbsp;</div>
+<div style="aspect-ratio: 1/1; background: url('https://cdn.characterhub.com/r/1280w/users/d7be8c1d-2f90-4d9d-a47c-4162ba9c4843/38964ae8-dec3-4eef-9ccb-7308c1beb6f2_l') center/cover; border: 1px solid #bc4c4c;">&nbsp;</div>
+</div>
+<!-- HOBBIES & QUOTES CONTAINER ; CHANGED HOBBIES SO IT CAN SCROLL AND HOLD MORE-->
+<div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 5px;"><!-- HOBBIES LIST -->
+<div style="flex: 1; min-width: min(100%, 140px);"><strong style="color: #bc4c4c; font-size: 0.7rem; text-transform: uppercase; letter-spacing: 1px;">Hobbies</strong>
+<div style="max-height: 130px; overflow-y: auto; scrollbar-width: thin; scrollbar-color: #bc4c4c #0d0d0d; margin-top: 5px; padding-right: 4px;">
+<ul style="margin: 0 0 0 15px; padding: 0; font-size: 0.80rem; list-style-type: circle; color: #e0e0e0; line-height: 1.4;">
+<li>Crossword puzzles</li>
+<li>Journaling</li>
+<li>Reading</li>
+</ul>
+</div>
+</div>
+<!-- QUOTES BOX -->
+<div style="flex: 1.5; min-width: min(100%, 180px); background: rgba(20,20,20,0.5); padding: 10px; border-left: 3px solid #bc4c4c; box-shadow: inset 0 0 10px #000;"><strong style="color: #bc4c4c; font-size: 0.65rem; text-transform: uppercase; letter-spacing: 1px; display: block; margin-bottom: 5px;">quotes</strong>
+<div style="font-style: italic; font-size: 0.8rem; color: #8a8a8a; line-height: 1.3;">"Why is it that the nicest people are always treated the worst while the worst people are always treated the best? This cruel world holds no surprises."<hr style="border: 0; border-top: 1px solid #444; margin: 5px 0;">"I despise those who are blind to the wrongdoings of their actions."</div>
+</div>
+</div>
+</div>
+<!-- RIGHT SUB-SECTION: Secondary Shaped Portrait & Artist Credit -->
+<div style="flex: 1; min-width: min(100%, 200px); text-align: center; display: flex; flex-direction: column; align-items: center; justify-content: center;"><!-- SHAPED PORTRAIT IMAGE (Hexagon/Polygon crop) -->
+<div style="display: inline-block; position: relative; padding: 3px; background-color: #bc4c4c; -webkit-clip-path: polygon(50% 0%, 95% 20%, 90% 100%, 10% 100%, 5% 20%, 50% 0%); clip-path: polygon(50% 0%, 95% 20%, 90% 100%, 10% 100%, 5% 20%, 50% 0%);">
+<div style="width: clamp(130px, 45vw, 175px); height: clamp(180px, 64vw, 250px); max-width: 100%; background: #1a1a1a url('https://cdn.characterhub.com/r/1280w/users/fd9e396d-4c73-4274-90d9-a0085c7a70c7/f514963d-d10b-409a-ac26-7dc486f9023d_l') center/cover; -webkit-clip-path: polygon(50% 0.5%, 94.5% 20.3%, 89.5% 99.5%, 10.5% 99.5%, 5.5% 20.3%, 50% 0.5%); clip-path: polygon(50% 0.5%, 94.5% 20.3%, 89.5% 99.5%, 10.5% 99.5%, 5.5% 20.3%, 50% 0.5%);">&nbsp;</div>
+</div>
+<!-- ARTIST CREDIT BUTTON (SECONDARY PORTRAIT) -->
+<div style="margin-top: 10px;"><a style="text-decoration: none; color: #bc4c4c; border: 1px solid #661e1e; padding: 4px 10px; font-size: 0.65rem; text-transform: uppercase; letter-spacing: 1px; background: rgba(0,0,0,0.5); display: inline-block;" href="/profile/viennaonmars">Art by viennaonmars</a></div>
+</div>
+</div>
+</div>
+</div>
+<!-- CREDIT: CAN BE REMOVED IF U WISH-->
+<div style="max-width: 860px; margin: 4px auto 0 auto; text-align: right; font-family: 'Georgia', serif; font-size: 0.55rem; color: #666; letter-spacing: 0.5px;">coded by: <a style="text-decoration: none; vertical-align: middle;" href="/profile/serph" target="_blank" rel="noopener"> <img style="height: 10px; width: auto; vertical-align: middle; border: none;" src="https://i.imgur.com/M9fiYGk.gif" alt="coded by serph"> </a></div>
