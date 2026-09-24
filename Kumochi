@@ -1,0 +1,87 @@
+<!-- == KUMOCHI CHARACTER CARD ==== 
+Main background / Card background: url('https://cdn.characterhub.com/.../eb090442-22a7-433d-8149-614079937746_l') (Cover background texture)
+Accent / Highlight / Border colors: #b90000 (Crimson Red for accents, borders, scrollbar-color, and highlighted letters)
+Box / Container / Panel colors: rgba(255,255,255,0.7) and rgba(255,255,255,0.8) (Translucent White panels)
+Dark UI elements / Icons / Badges: #0c0204 (Very dark/black badge and header shapes)
+Text colors: #212743 (Main body text color)
+=========================== -->
+<p>&nbsp;</p>
+<!-- ==========================================
+     MAIN CARD WRAPPER CONTAINER
+     ========================================== -->
+<div style="max-width: 900px; width: 100%; box-sizing: border-box; margin: 0 auto; padding: 10px; font-family: 'Trebuchet MS', sans-serif; color: #212743; background: url('https://cdn.characterhub.com/r/1280w/users/fd9e396d-4c73-4274-90d9-a0085c7a70c7/eb090442-22a7-433d-8149-614079937746_l?&amp;fit=crop&amp;w=1468&amp;q=80') center/cover; border-radius: 5px; cursor: url('https://file.garden/ZlwiKgzAvyz0wLRz/Cursor/icecream.png'), auto;"><!-- ==========================================
+       TOP SECTION: LEFT AVATAR & RIGHT INFO
+       ========================================== -->
+<div style="display: flex; flex-wrap: wrap; gap: 15px; cursor: url('https://file.garden/ZlwiKgzAvyz0wLRz/Cursor/icecream.png'), auto;"><!-- LEFT COLUMN: CHARACTER NAME, PROFILE IMAGE & QUOTE -->
+<div style="flex: 1 1 280px; min-width: min(100%, 280px);"><!-- Character Name Header -->
+<div style="display: flex; align-items: center; margin-bottom: 15px;">
+<div style="background: #0c0204; color: #fff; width: 45px; height: 45px; clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%); display: flex; align-items: center; justify-content: center; z-index: 2; flex-shrink: 0;"><img style="width: 25px; height: 25px; object-fit: contain;" src="https://cdn.characterhub.com/r/1280w/users/fd9e396d-4c73-4274-90d9-a0085c7a70c7/48f65ce1-3158-4adc-8f52-b7cd23b7af49_l" alt="spider gif"></div>
+<div style="background: rgba(255,255,255,0.7); padding: 10px 15px; flex-grow: 1; margin-left: -20px; text-align: right; font-size: 1.5em; font-weight: bold; border-radius: 0 5px 5px 0; word-break: break-word;">Kumochi</div>
+</div>
+<!-- Profile Image Box -->
+<div style="background: url('https://cdn.characterhub.com/r/1280w/users/8ec0716a-1436-48fd-b460-849e64b74593/e873cab4-4a06-42ec-b942-f0f018b6a529_l') center/cover; background-color: #fff; height: 400px; border-radius: 5px; border: 5px solid rgba(255,255,255,0.5);">&nbsp;</div>
+<!-- Quote Box -->
+<div style="background: rgba(255,255,255,0.8); margin-top: 15px; padding: 12px 15px; text-align: left; font-style: italic; border-radius: 0 5px 5px 0; border-left: 5px solid #b90000; line-height: 1.4; font-size: 0.95em;">"I can't wait for the holidays!!!"</div>
+</div>
+<!-- RIGHT COLUMN: STATS GRID & PAST / PERSONALITY INFO -->
+<div style="flex: 2 1 280px; min-width: min(100%, 280px); display: flex; flex-direction: column; gap: 10px;"><!-- Stats Grid (Age, Birthday, Race, Pronouns) -->
+<div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px;">
+<div style="background: rgba(255,255,255,0.7); padding: 8px 12px; display: flex; justify-content: space-between; align-items: center;"><strong style="letter-spacing: 1px;"><span style="color: #b90000;">a</span>ge</strong> 16</div>
+<div style="background: rgba(255,255,255,0.7); padding: 8px 12px; display: flex; justify-content: space-between; align-items: center;"><strong style="letter-spacing: 1px;"><span style="color: #b90000;">b</span>irthday</strong> 06/16</div>
+<div style="background: rgba(255,255,255,0.7); padding: 8px 12px; display: flex; justify-content: space-between; align-items: center;"><strong style="letter-spacing: 1px;"><span style="color: #b90000;">r</span>ace</strong> Spider</div>
+<div style="background: rgba(255,255,255,0.7); padding: 8px 12px; display: flex; justify-content: space-between; align-items: center;"><strong style="letter-spacing: 1px;"><span style="color: #b90000;">p</span>ronouns</strong> he/him</div>
+</div>
+<!-- Past & Personality Text Panel -->
+<div style="background: rgba(255,255,255,0.7); padding: 20px; flex-grow: 1; max-height: 435px; overflow-y: auto; border-radius: 5px; scrollbar-width: thin; scrollbar-color: #b90000 rgba(255,255,255,0.3); box-sizing: border-box;"><!-- Past Heading -->
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+<div style="background: #0c0204; color: #fff; width: 30px; height: 30px; clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%); display: flex; align-items: center; justify-content: center; margin-right: 10px; flex-shrink: 0;"><img style="width: 18px; height: 18px; object-fit: contain;" src="https://watermelon.crd.co/assets/images/gallery02/6c6e51ba.gif?v=e2e5e274" alt="circle"></div>
+<h3 style="margin: 0; font-size: 1.2em; text-transform: uppercase;"><span style="color: #b90000;">p</span>ast</h3>
+</div>
+<!-- Past Content Paragraphs --> <img style="float: right; max-width: 40%; height: auto; margin: 0 0 10px 15px; filter: drop-shadow(2px 2px 5px rgba(0,0,0,0.1));" src="https://cdn.characterhub.com/r/1280w/users/fd9e396d-4c73-4274-90d9-a0085c7a70c7/a872c9e7-c205-4572-a0fd-c1ccada483a1_l">
+<p style="font-size: 0.9em; line-height: 1.6; margin-bottom: 15px;">He lives with his kind grandfather since he's 11. His parents are on vacation and couldn't bring him with them cause it would have been too complicated with school etc..</p>
+<p style="font-size: 0.9em; line-height: 1.6; margin-bottom: 15px;">Before his 11th birthday, he used to be pretty shy and didn't have many friends. It's three year later (when he was 14) that he started posting on social medias about being a femboy. Obviously, he received A LOT of hate and weird comments. but there's also nice people too ! He learned to live with the hate comments and don't give a shit about them anymore.</p>
+<p style="font-size: 0.9em; line-height: 1.6; margin-bottom: 15px;">And he has a love/hate relationship with valentine's day because he really really loves it and hopes for someone to confess to him but also hates it because people usually offers him chocolate.. which he's allergic to.&nbsp;<img src="https://pixelsafari.neocities.org/favicon/animals/bug/spider5.gif"></p>
+<!-- Personality Heading -->
+<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 10px;">
+<div style="background: #0c0204; color: #fff; width: 30px; height: 30px; clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%); display: flex; align-items: center; justify-content: center; margin-right: 10px; flex-shrink: 0;"><img style="width: 18px; height: 18px; object-fit: contain;" src="https://i.imgur.com/BQqdd4g.gif" alt="hearts"></div>
+<h3 style="margin: 0; font-size: 1.2em; text-transform: uppercase;"><span style="color: #b90000;">P</span>ersonality&nbsp;</h3>
+</div>
+<!-- Personality Attributes -->
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; font-size: 0.85em; margin-bottom: 10px; font-weight: bold; gap: 10px;">Energetic &bull; Clingy&nbsp;</div>
+</div>
+</div>
+</div>
+<!-- ==========================================
+       BOTTOM SECTION: STORY & PAGEDOLL/VIDEO
+       ========================================== -->
+<div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 15px; align-items: stretch;"><!-- STORY PANEL -->
+<div style="flex: 2 1 280px; min-width: min(100%, 280px); background: rgba(255,255,255,0.7); padding: 20px; border-radius: 5px; max-height: 200px; overflow-y: auto; scrollbar-width: thin; scrollbar-color: #b90000 rgba(255,255,255,0.3); box-sizing: border-box;">
+<div style="display: flex; align-items: center; margin-bottom: 15px;">
+<div style="background: #0c0204; color: #fff; width: 30px; height: 30px; clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%); display: flex; align-items: center; justify-content: center; margin-right: 10px; flex-shrink: 0;"><img style="width: 18px; height: 18px; object-fit: contain;" src="https://cdn.characterhub.com/r/1280w/users/fd9e396d-4c73-4274-90d9-a0085c7a70c7/48f65ce1-3158-4adc-8f52-b7cd23b7af49_l" alt="spider gif"></div>
+<h3 style="margin: 0; font-size: 1.2em; text-transform: uppercase;"><span style="color: #b90000;">S</span>TORY</h3>
+</div>
+<p style="font-size: 0.9em; line-height: 1.6; margin-bottom: 10px;">Kumochi becomes super friendly and extrovert as the story goes on. He's very insecure about his appearance. Also Kumochi's usually zoned out.</p>
+<p style="font-size: 0.9em; line-height: 1.6;"><a style="color: #b90000; font-weight: bold; text-decoration: underline;" href="/character/maiko-2rqVqiW3">Maiko</a> is kind of scared/disgusted of Kumochi, even if he tries to hide it as much as he could.</p>
+</div>
+<!-- RIGHT DECORATIVE COLUMN (COLOR BAR, SPEECH BUBBLE & PAGEDOLL) -->
+<div style="flex: 1 1 230px; min-width: min(100%, 230px); display: flex; flex-direction: column; gap: 10px; justify-content: flex-end;"><!-- Accent Color Bar Strip -->
+<div style="display: flex; height: 25px; border-radius: 3px; overflow: hidden;">
+<div style="flex: 1; background: #353535;">&nbsp;</div>
+<div style="flex: 1; background: #811701;">&nbsp;</div>
+<div style="flex: 1; background: #839086;">&nbsp;</div>
+<div style="flex: 1; background: #a8a0b7;">&nbsp;</div>
+</div>
+<!-- Icecream Interactive Pagedoll Wrapper -->
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; padding-top: 10px;"><!-- Speech Bubble with Tail -->
+<div style="background: rgba(255,255,255,0.7); border: 2px solid rgba(255,255,255,0.5); padding: 6px 14px; border-radius: 15px; font-size: 0.85em; font-weight: bold; position: relative; box-shadow: 0 3px 6px rgba(0,0,0,0.05); margin-bottom: 8px;">click me!!!
+<div style="position: absolute; bottom: -7px; left: 50%; transform: translateX(-50%); width: 0; height: 0; border-left: 5px solid transparent; border-right: 5px solid transparent; border-top: 7px solid rgba(255,255,255,0.7);">&nbsp;</div>
+</div>
+<!-- Pagedoll Details Toggle containing YouTube Video Dropdown --><details style="width: 100%; text-align: center; cursor: pointer;">
+<summary style="list-style: none; cursor: pointer; outline: none; display: flex; flex-direction: column; align-items: center;"><img style="max-height: 300px; width: 100%; object-fit: contain; filter: drop-shadow(4px 4px 8px rgba(0,0,0,0.2)); transition: transform 0.2s;" src="https://cdn.characterhub.com/r/1280w/users/fd9e396d-4c73-4274-90d9-a0085c7a70c7/60f953c1-e309-4ae5-9e33-21a875cf8acb_l" alt="pagedoll"></summary>
+<div style="margin-top: 10px; background: rgba(255,255,255,0.7); padding: 10px; border-radius: 5px; border: 5px solid rgba(255,255,255,0.5); box-shadow: 0 4px 10px rgba(0,0,0,0.1); box-sizing: border-box;">
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0; border-radius: 4px;" src="https://www.youtube.com/embed/C_PAI-YAyJg?si=F36Rm3O9x0kxokiv" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
+</details></div>
+</div>
+</div>
+</div>
