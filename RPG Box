@@ -1,0 +1,68 @@
+<!--
+  ========================================================================
+  RPG BOX: Inspired heavily by Undertale Vendors code by CalsCode on ToyHouse; recreated for CharacterHub by Serph
+  ========================================================================
+  MAIN COLORS & ACCENTS (Edit these hex codes to customize the palette):
+  * Base Background / Theme    : #000000 (Black)
+  * Primary Text / Borders    : #ffffff (White)
+  * Accent / Scrollbar & Border: #555555 (Neutral Grey)
+
+  SPRITE & IMAGE INSTRUCTIONS:
+  * Find the placeholder labels like DEFAULTSPRITE, DIALOG1SPRITE, 
+    DIALOG2SPRITE, TALKSPRITE, and GOODBYESPRITE by using CTRL + F.
+  * Replace them with your own image hosting links. 
+  ========================================================================
+-->
+<div style="position: relative; max-width: 500px; margin: 0 auto; font-family: Courier, 'Courier New', monospace; background: black; color: white; padding: 4px; box-sizing: border-box;"><!-------- DEFAULT BACKGROUND IMAGE CONTAINER ---------->
+<div style="position: relative; width: 100%; height: 260px; background: url('/editor/character/DEFAULTSPRITE') top / cover no-repeat #000; border: 3px solid white; box-sizing: border-box; margin-bottom: 4px;"><!-------- FIXED NAMEPLATE ---------->
+<div style="position: absolute; top: 218px; left: 8px; background: black; border: 2px solid white; padding: 3px 8px; font-family: Courier, 'Courier New', monospace; font-size: 15px; color: white; box-sizing: border-box; z-index: 50;">Character Name</div>
+</div>
+<!-------- DIALOGUE & MENU AREA ---------->
+<div style="position: relative; display: flex; justify-content: space-between; width: 100%; height: 150px; box-sizing: border-box;"><!-------- DEFAULT DIALOGUE BOX ---------->
+<div style="width: 64%; height: 150px; border: 3px solid white; background: black; color: white; padding: 12px; box-sizing: border-box; overflow-y: auto; scrollbar-width: thin; scrollbar-color: #555555 #111;">
+<p style="margin: 0; border-left: 3px solid #555555; padding-left: 8px;">"This is default placeholder dialogue for the character widget."</p>
+</div>
+<!-------- RIGHT MENU (SUMMARY BUTTONS) ---------->
+<div style="width: 34%; height: 150px; border: 3px solid white; background: black; color: white; padding: 10px; box-sizing: border-box; display: flex; flex-direction: column; justify-content: space-between;"><!-------- MENU BUTTONS LIST ---------->
+<div style="display: flex; flex-direction: column; gap: 4px;"><!-------- OPTION 1 TAB ----------><details style="margin: 0;">
+<summary style="cursor: pointer; list-style: none; list-style-type: none; outline: none; color: white; user-select: none;">Option 1</summary>
+<!-------- SPRITE IMAGE FOR OPTION 1 ---------->
+<div style="position: absolute; top: -264px; left: 0; width: 100%; height: 260px; background: url('/editor/character/DIALOG1SPRITE') top / cover no-repeat #000; border: 3px solid white; box-sizing: border-box; z-index: 3;">&nbsp;</div>
+<!-------- DIALOGUE FOR OPTION 1 ---------->
+<div style="position: absolute; top: 0; left: 0; width: 64%; height: 150px; border: 3px solid white; background: black; color: white; padding: 12px; box-sizing: border-box; overflow-y: auto; scrollbar-width: thin; scrollbar-color: #555555 #111; z-index: 10;">
+<p style="margin: 0; border-left: 3px solid #555555; padding-left: 8px;">"Response for option one goes here."</p>
+</div>
+</details><!-------- OPTION 2 TAB ----------><details style="margin: 0;">
+<summary style="cursor: pointer; list-style: none; list-style-type: none; outline: none; color: white; user-select: none;">Option 2</summary>
+<!-------- SPRITE IMAGE FOR OPTION 2 ---------->
+<div style="position: absolute; top: -264px; left: 0; width: 100%; height: 260px; background: url('/editor/character/DIALOG2SPRITE') top / cover no-repeat #000; border: 3px solid white; box-sizing: border-box; z-index: 3;">&nbsp;</div>
+<!-------- DIALOGUE FOR OPTION 2 ---------->
+<div style="position: absolute; top: 0; left: 0; width: 64%; height: 150px; border: 3px solid white; background: black; color: white; padding: 12px; box-sizing: border-box; overflow-y: auto; scrollbar-width: thin; scrollbar-color: #555555 #111; z-index: 20;">
+<p style="margin: 0; border-left: 3px solid #555555; padding-left: 8px;">"Response for option two goes here."</p>
+</div>
+</details><!-------- TALK TAB ----------><details style="margin: 0;">
+<summary style="cursor: pointer; list-style: none; list-style-type: none; outline: none; color: white; user-select: none;">Talk</summary>
+<!-------- SPRITE IMAGE FOR TALK ---------->
+<div style="position: absolute; top: -264px; left: 0; width: 100%; height: 260px; background: url('/editor/character/TALKSPRITE') top / cover no-repeat #000; border: 3px solid white; box-sizing: border-box; z-index: 3;">&nbsp;</div>
+<!-------- DIALOGUE FOR TALK ---------->
+<div style="position: absolute; top: 0; left: 0; width: 64%; height: 150px; border: 3px solid white; background: black; color: white; padding: 12px; box-sizing: border-box; overflow-y: auto; scrollbar-width: thin; scrollbar-color: #555555 #111; z-index: 30;">
+<p style="margin: 0; border-left: 3px solid #555555; padding-left: 8px;">"General conversational dialogue text."</p>
+</div>
+</details><!-------- GOODBYE TAB ----------><details style="margin: 0;">
+<summary style="cursor: pointer; list-style: none; list-style-type: none; outline: none; color: white; user-select: none;">Goodbye</summary>
+<!-------- SPRITE IMAGE FOR GOODBYE ---------->
+<div style="position: absolute; top: -264px; left: 0; width: 100%; height: 260px; background: url('/editor/character/GOODBYESPRITE') top / cover no-repeat #000; border: 3px solid white; box-sizing: border-box; z-index: 3;">&nbsp;</div>
+<!-------- DIALOGUE FOR GOODBYE ---------->
+<div style="position: absolute; top: 0; left: 0; width: 64%; height: 150px; border: 3px solid white; background: black; color: white; padding: 12px; box-sizing: border-box; overflow-y: auto; scrollbar-width: thin; scrollbar-color: #555555 #111; z-index: 40;">
+<p style="margin: 0; border-left: 3px solid #555555; padding-left: 8px;">"Goodbye message or closing text."</p>
+</div>
+</details></div>
+<!-------- FOOTER ---------->
+<div style="width: 100%;">
+<p style="margin: 0; font-size: 7.5px; line-height: 1.1; opacity: 0.8; word-break: break-word;">DISCLAIMER: Click in order to close first.</p>
+</div>
+</div>
+</div>
+</div>
+<!-------- CREDIT ---------->
+<div style="max-width: 500px; margin: 4px auto 0 auto; text-align: right; font-family: Courier, 'Courier New', monospace; font-size: 10px;"><a style="color: #888888; text-decoration: none;" href="/character/serphs-code-lab" target="_blank" rel="noopener">code</a></div>
