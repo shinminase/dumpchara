@@ -10,7 +10,7 @@
   SPRITE & IMAGE INSTRUCTIONS:
   * Find the placeholder labels like DEFAULTSPRITE, DIALOG1SPRITE, 
     DIALOG2SPRITE, TALKSPRITE, and GOODBYESPRITE by using CTRL + F.
-  * Replace them with your own image hosting links. 
+  * Replace them with your own image hosting links. Replace everything inside '' 
   ========================================================================
 -->
 <div style="position: relative; max-width: 500px; margin: 0 auto; font-family: Courier, 'Courier New', monospace; background: black; color: white; padding: 4px; box-sizing: border-box;"><!-------- DEFAULT BACKGROUND IMAGE CONTAINER ---------->
