@@ -1,0 +1,174 @@
+<!--
+  ========================================================================
+  CHARACTER PROFILE CARD: SIFFRIN
+  ========================================================================
+  MAIN COLORS & ACCENTS (Edit these hex codes to customize the palette):
+  * Main Container Background : #2a2a2a (Dark Charcoal)
+  * Details/Bio Box Background: #ffffff (White)
+  * Primary Text / Borders    : #333333 / #555555
+  * Secondary Text / Scrollbar: #666666 / #888888
+  
+  BACKGROUND PATTERN INSTRUCTIONS:
+  * To add an optional background pattern image, FIND AND REPLACE: BORDER-IMAGE-BG with your own image URL.
+
+  ICON / PAGEDOLL IMAGE INSTRUCTIONS:
+  * FIND AND REPLACE https://i.imgur.com/OafQn2j.png (ICON) | FIND AND REPLACE https://i.imgur.com/WdFYypz.png (PAGEDOLL)
+  * Replace with your own image URL.
+
+  MOODBOARD INSTRUCTIONS:
+  * Replace each placeholder URL inside the moodboard grid slots below with your own image URLs.
+  * FIND AND REPLACE: https://placehold.co/300x300/e5e5e5/999999?text=+ with your own image URL. 
+
+  YOUTUBE VIDEO EMBED INSTRUCTIONS
+  * Replace https://www.youtube.com/embed/dQw4w9WgXcQ with the embed link of the desired YouTube video. Must be an embed link.
+  ========================================================================
+-->
+<!-- INITIAL CONTAINER -->
+<div style="margin: auto; max-width: 900px; width: 100%; box-sizing: border-box; font-family: 'Courier New', Courier, monospace;"><!-- BOX BORDER WITH BACKGROUND IMAGE -->
+<div style="background: #2a2a2a url('/editor/character/BORDER-IMAGE-BG') repeat; background-size: auto; border-radius: 0px; padding: 8px; box-sizing: border-box;"><!-- COLUMNS ROW-->
+<div style="display: flex; flex-direction: row-reverse; flex-wrap: wrap; align-items: stretch; box-sizing: border-box;"><!-- PROFILE BOX (RIGHT COLUMN) -->
+<div style="flex: 1 1 280px; padding: 4px; box-sizing: border-box; min-width: 0; display: flex; flex-direction: column;">
+<div style="flex: 1; background-color: #ffffff; border-radius: 0px; overflow: hidden; box-sizing: border-box; display: flex; flex-direction: column; justify-content: space-between;"><!-- GRADIENT + BACKGROUND IMAGE -->
+<div>
+<div style="background: url('https://i.imgur.com/OW54ruO.jpeg') fixed center; height: 150px; background-size: cover; border-radius: 0px;">
+<div style="height: 100%; background: linear-gradient(180deg, rgba(0, 0, 0, .0) 0%, rgba(0, 0, 0, .0) 60%, #ffffff 100%);">&nbsp;</div>
+</div>
+<!-- CHARACTER IMAGE -->
+<div style="background-color: #d1d1d1; margin: auto; background-image: url('https://i.imgur.com/OafQn2j.png'); background-size: cover; background-position: center; height: 225px; width: 225px; max-width: 100%; border: 6px solid #ffffff; border-radius: 0px; margin-top: -120px; box-sizing: border-box; position: relative;">
+<div style="height: 100%; border: 2px dashed #999999; border-radius: 0px; box-sizing: border-box; display: flex; align-items: flex-end; padding: 8px;"><!-- TEXT CREDIT/QUOTE INSIDE THE ICON WITH DROP SHADOW AND NO BG -->
+<div style="width: 100%; color: #ffffff; font-size: 11px; font-weight: bold; text-align: center; letter-spacing: .08em; text-shadow: 1px 1px 2px rgba(0,0,0,0.9), -1px -1px 2px rgba(0,0,0,0.9), 1px -1px 2px rgba(0,0,0,0.9), -1px 1px 2px rgba(0,0,0,0.9);">art cred/quote</div>
+</div>
+</div>
+<!-- CENTERED NAME HEADING BELOW ICON -->
+<div style="text-align: center; font-size: 20px; font-weight: bold; letter-spacing: .15em; text-transform: uppercase; color: #333333; margin: 12px 0 4px 0;">Siffrin</div>
+<!-- INFORMATION SECTION -->
+<div style="margin: 8px; box-sizing: border-box;"><!-- NAME -->
+<div style="display: flex; align-items: center; padding: 4px 8px; box-sizing: border-box;">
+<div style="font-weight: bold; letter-spacing: .1em; text-transform: uppercase; color: #555555; white-space: nowrap;">Name</div>
+<div style="flex-grow: 1; margin: 0 8px; min-width: 10px;"><hr style="border: none; border-top: 1px dotted #bbbbbb; margin: 0; padding: 0;"></div>
+<div style="color: #333333; word-break: break-all;">SIFFRIN</div>
+</div>
+<!-- AGE -->
+<div style="display: flex; align-items: center; padding: 4px 8px; box-sizing: border-box;">
+<div style="font-weight: bold; letter-spacing: .1em; text-transform: uppercase; color: #555555; white-space: nowrap;">Age</div>
+<div style="flex-grow: 1; margin: 0 8px; min-width: 10px;"><hr style="border: none; border-top: 1px dotted #bbbbbb; margin: 0; padding: 0;"></div>
+<div style="color: #333333;">content</div>
+</div>
+<!-- BIRTHDAY -->
+<div style="display: flex; align-items: center; padding: 4px 8px; box-sizing: border-box;">
+<div style="font-weight: bold; letter-spacing: .1em; text-transform: uppercase; color: #555555; white-space: nowrap;">Birthday</div>
+<div style="flex-grow: 1; margin: 0 8px; min-width: 10px;"><hr style="border: none; border-top: 1px dotted #bbbbbb; margin: 0; padding: 0;"></div>
+<div style="color: #333333;">content</div>
+</div>
+<!-- GENDER -->
+<div style="display: flex; align-items: center; padding: 4px 8px; box-sizing: border-box;">
+<div style="font-weight: bold; letter-spacing: .1em; text-transform: uppercase; color: #555555; white-space: nowrap;">Gender</div>
+<div style="flex-grow: 1; margin: 0 8px; min-width: 10px;"><hr style="border: none; border-top: 1px dotted #bbbbbb; margin: 0; padding: 0;"></div>
+<div style="color: #333333;">content</div>
+</div>
+<!-- PRONOUNS -->
+<div style="display: flex; align-items: center; padding: 4px 8px; box-sizing: border-box;">
+<div style="font-weight: bold; letter-spacing: .1em; text-transform: uppercase; color: #555555; white-space: nowrap;">Pronouns</div>
+<div style="flex-grow: 1; margin: 0 8px; min-width: 10px;"><hr style="border: none; border-top: 1px dotted #bbbbbb; margin: 0; padding: 0;"></div>
+<div style="color: #333333;">content</div>
+</div>
+<!-- HEIGHT -->
+<div style="display: flex; align-items: center; padding: 4px 8px; box-sizing: border-box;">
+<div style="font-weight: bold; letter-spacing: .1em; text-transform: uppercase; color: #555555; white-space: nowrap;">Height</div>
+<div style="flex-grow: 1; margin: 0 8px; min-width: 10px;"><hr style="border: none; border-top: 1px dotted #bbbbbb; margin: 0; padding: 0;"></div>
+<div style="color: #333333;">content</div>
+</div>
+<!-- CHARACTER SYMBOL -->
+<div style="display: flex; align-items: center; padding: 4px 8px; box-sizing: border-box;">
+<div style="font-weight: bold; letter-spacing: .1em; text-transform: uppercase; color: #555555; white-space: nowrap;">Symbol</div>
+<div style="flex-grow: 1; margin: 0 8px; min-width: 10px;"><hr style="border: none; border-top: 1px dotted #bbbbbb; margin: 0; padding: 0;"></div>
+<div style="color: #333333;">✖</div>
+</div>
+</div>
+</div>
+<div><!-- DECORATIVE DIVIDER -->
+<div style="display: flex; justify-content: center; align-items: center; margin: 8px 0;"><span style="font-size: 12px; color: #bbbbbb;">■</span> <span style="font-size: 14px; color: #666666; margin: 0 8px; font-weight: bold;">[+]</span> <span style="font-size: 12px; color: #bbbbbb;">■</span></div>
+<!-- VIDEO EMBED CONTAINER -->
+<div style="margin: 8px; background: #000000; border: 2px solid #e5e5e5; border-radius: 0px; overflow: hidden; box-sizing: border-box;">
+<div style="position: relative; width: 100%; height: 140px;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/dQw4w9WgXcQ" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
+</div>
+</div>
+</div>
+<!-- CONTENT BOX (LEFT COLUMN) -->
+<div style="flex: 2 1 400px; padding: 4px; box-sizing: border-box; min-width: 0; display: flex; flex-direction: column;">
+<div style="background-color: #ffffff; padding: 8px; flex: 1; border-radius: 0px; box-sizing: border-box; display: flex; flex-direction: column;"><!-- QUOTE BOX -->
+<div style="background-color: #e5e5e5; border-radius: 0px; color: #333333; padding: 8px; margin-bottom: 8px; box-sizing: border-box; border-left: 4px solid #555555;">
+<p style="margin: 0; padding: 0 16px; font-style: italic; text-align: center; word-break: break-word;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+<p style="margin: 0; padding: 0 16px; text-align: right; font-size: .8em;">&mdash; Quote Source</p>
+</div>
+<!-- MOODBOARD TITLE -->
+<div style="display: flex; align-items: center; margin-bottom: 8px; box-sizing: border-box;">
+<div style="font-size: 18px; font-weight: bold; letter-spacing: .1em; text-transform: uppercase; color: #555555; white-space: nowrap;">Moodboard</div>
+<div style="flex-grow: 1; margin: 0 8px; min-width: 10px;"><hr style="border: none; border-top: 1px dotted #bbbbbb; margin: 0; padding: 0;"></div>
+<div style="font-size: 18px; font-weight: bold; letter-spacing: .1em; text-transform: uppercase; color: #666666;">■</div>
+</div>
+<!-- MOODBOARD GRID -->
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 6px; margin-bottom: 8px; box-sizing: border-box;"><!-- MOODBOARD IMAGE 1 -->
+<div style="background-color: #e5e5e5; background-image: url('https://placehold.co/300x300/e5e5e5/999999?text=+'); background-size: cover; background-position: center; height: 65px; border-radius: 0px; border: 2px solid #cccccc; filter: grayscale(100%);">&nbsp;</div>
+<!-- MOODBOARD IMAGE 2 -->
+<div style="background-color: #e5e5e5; background-image: url('https://placehold.co/300x300/e5e5e5/999999?text=+'); background-size: cover; background-position: center; height: 65px; border-radius: 0px; border: 2px solid #cccccc; filter: grayscale(100%);">&nbsp;</div>
+<!-- MOODBOARD IMAGE 3 -->
+<div style="background-color: #e5e5e5; background-image: url('https://placehold.co/300x300/e5e5e5/999999?text=+'); background-size: cover; background-position: center; height: 65px; border-radius: 0px; border: 2px solid #cccccc; filter: grayscale(100%);">&nbsp;</div>
+</div>
+<!-- SCROLLABLE BOX FOR DESCRIPTION -->
+<div style="flex: 1; min-height: 200px; max-height: 350px; overflow-y: auto; padding-right: 4px; box-sizing: border-box; margin-bottom: 12px; scrollbar-width: thin; scrollbar-color: #888888 #f0f0f0;">
+<div style="color: #333333; font-size: 13px; line-height: 1.4; box-sizing: border-box;"><!-- LARGER FLOAT PAGEDOLL WRAPPING TEXT -->
+<div style="float: left; width: 135px; margin-right: 12px; margin-bottom: 4px; text-align: center; box-sizing: border-box;"><img style="width: 135px; height: 135px; object-fit: cover; border: none; display: block; filter: grayscale(100%);" src="https://i.imgur.com/WdFYypz.png"> <span style="font-size: 10px; color: #777777; display: block; margin-top: 2px;">pagedoll credit</span></div>
+<p style="margin: 0 0 8px 0; word-break: break-word;">This box will turn into a scrollbar when it overflows. Art is from the game In Stars and Time.<br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus faucibus consectetur odio fermentum ornare. Aenean laoreet purus in ipsum finibus, eget rhoncus mauris tincidunt.</p>
+<p style="margin: 0 0 8px 0; word-break: break-word;">Vestibulum nec ornare diam, eget eleifend velit. Mauris quam sapien, aliquet nec risus id, faucibus laoreet augue. Aliquam condimentum malesuada odio in dignissim.</p>
+<p style="margin: 0 0 8px 0; word-break: break-word;">Pellentesque sit amet elit mauris. Phasellus vel sapien blandit, tincidunt dolor sed, vulputate quam. Quisque rutrum velit non nisl rhoncus, eget lobortis nibh vehicula.</p>
+<p style="margin: 0; word-break: break-word;">Curabitur pulvinar diam id placerat sodales. Integer in interdum felis. Sed vel est auctor, lacinia quam a, lobortis tellus. Suspendisse potenti.</p>
+<div style="clear: both;">&nbsp;</div>
+</div>
+</div>
+<!-- 2-COLUMN GRID FOR LIKES & DISLIKES -->
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px; box-sizing: border-box; flex-shrink: 0;"><!-- LIKES COLUMN -->
+<div style="display: flex; flex-direction: column; box-sizing: border-box;"><!-- LIKES HEADER -->
+<div style="display: flex; align-items: center; margin-bottom: 6px; box-sizing: border-box;">
+<div style="font-size: 14px; font-weight: bold; letter-spacing: .1em; text-transform: uppercase; color: #555555; white-space: nowrap;">Likes</div>
+<div style="flex-grow: 1; margin: 0 6px; min-width: 10px;"><hr style="border: none; border-top: 1px dotted #bbbbbb; margin: 0; padding: 0;"></div>
+<div style="font-size: 14px; font-weight: bold; letter-spacing: .1em; text-transform: uppercase; color: #666666;">■</div>
+</div>
+<!-- LIKES SCROLLABLE LIST -->
+<div style="height: 120px; overflow-y: auto; background-color: #f9f9f9; border: 1px solid #e5e5e5; padding: 6px 8px; box-sizing: border-box; scrollbar-width: thin; scrollbar-color: #888888 #f0f0f0;">
+<ul style="margin: 0; padding-left: 16px; font-size: 12px; color: #333333; line-height: 1.4;">
+<li style="margin-bottom: 4px;">This also scrolls</li>
+<li style="margin-bottom: 4px;">a</li>
+<li style="margin-bottom: 4px;">b</li>
+<li style="margin-bottom: 4px;">c</li>
+<li style="margin-bottom: 4px;">d</li>
+</ul>
+</div>
+</div>
+<!-- DISLIKES COLUMN -->
+<div style="display: flex; flex-direction: column; box-sizing: border-box;"><!-- DISLIKES HEADER -->
+<div style="display: flex; align-items: center; margin-bottom: 6px; box-sizing: border-box;">
+<div style="font-size: 14px; font-weight: bold; letter-spacing: .1em; text-transform: uppercase; color: #555555; white-space: nowrap;">Dislikes</div>
+<div style="flex-grow: 1; margin: 0 6px; min-width: 10px;"><hr style="border: none; border-top: 1px dotted #bbbbbb; margin: 0; padding: 0;"></div>
+<div style="font-size: 14px; font-weight: bold; letter-spacing: .1em; text-transform: uppercase; color: #666666;">■</div>
+</div>
+<!-- DISLIKES SCROLLABLE LIST -->
+<div style="height: 120px; overflow-y: auto; background-color: #f9f9f9; border: 1px solid #e5e5e5; padding: 6px 8px; box-sizing: border-box; scrollbar-width: thin; scrollbar-color: #888888 #f0f0f0;">
+<ul style="margin: 0; padding-left: 16px; font-size: 12px; color: #333333; line-height: 1.4;">
+<li style="margin-bottom: 4px;">This also crolls</li>
+<li style="margin-bottom: 4px;">a</li>
+<li style="margin-bottom: 4px;">b</li>
+<li style="margin-bottom: 4px;">c</li>
+<li style="margin-bottom: 4px;">d</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- CREDIT-->
+<div style="max-width: 900px; margin: 4px auto 0 auto; text-align: right; box-sizing: border-box;"><a style="color: rgba(255, 255, 255, 0.7); font-family: 'Courier New', Courier, monospace; font-size: 10px; text-decoration: none; text-shadow: 1px 1px 2px rgba(0,0,0,0.9); letter-spacing: .05em;" href="/character/serphs-code-lab" target="blank">CODE</a></div>
