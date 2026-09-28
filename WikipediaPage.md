@@ -1,4 +1,4 @@
-IF  YOUR CHARACTER PROFILE HAS DARK COLORS, USE DARK MODE. This code will automatically take the color of your character page's INFO SECTIONs.
+IF  YOUR CHARACTER PROFILE HAS DARK COLORS, USE DARK MODE. This code will automatically take the color of your character page's INFO SECTIONs. DO NOT CLICK COPY RAW FILE ON THIS MD, CLICK THE LINKS BELOW THEN COPY RAW FILE.
 
 ### [LIGHT MODE](https://github.com/shinminase/dumpchara/blob/main/wikipedia/WIKI%20LIGHT)
 
