@@ -1,0 +1,129 @@
+<!--
+  ========================================================================
+    CHARACTER PROFILE CARD: WIKIPEDIA PAGE AFTER DARK
+  ========================================================================
+  CUSTOMIZATION GUIDE:
+  * Most of the text can be edited directly through the live editor to make it easier.
+  * Main Theme / Accent Colors : Translucent dark Wikipedia palette (rgba)
+  * Link Color                 : #6cb4ee (bright wiki-style blue for dark mode)
+  * Character Image URL        : Find and replace https://i.imgur.com/Tk1ufPb.png to your IMAGE URL.
+  ========================================================================
+-->
+<div style="font-family: sans-serif, Arial; color: #f8f9fa; line-height: 1.5; max-width: 1000px; margin: 0 auto; padding: 15px; box-sizing: border-box;">
+<!-- ==================================================================== --> 
+<!-- PAGE HEADER --> 
+<!-- ==================================================================== -->
+<div style="border-bottom: 1px solid rgba(162, 169, 177, 0.3); padding-bottom: 5px; margin-bottom: 10px;">
+<h1 style="font-family: 'Linux Libertine', Georgia, Times, serif; font-size: 2em; font-weight: normal; margin: 0 0 5px 0; color: #ffffff;">Name Here</h1>
+<div style="font-size: 0.8em; color: #a2a9b1;">From Wikipedia, the free encyclopedia</div>
+</div>
+<!-- ==================================================================== --> 
+<!-- MAIN CONTAINER --> 
+<!-- ==================================================================== -->
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;"><!-- ==================================================================== --> 
+<!-- LEFT COLUMN: MAIN CONTENT & SECTIONS --> 
+<!-- ==================================================================== -->
+<div style="flex: 1; min-width: 280px; order: 1;"><!-- Lead / Intro Paragraph -->
+<p style="margin-top: 0; font-size: 0.95em;"><strong>Name Here</strong> (born Month #, ####), info here, more information here. Talk about your character here. Blah de blah de blah. Don&rsquo;t forget to color words that would link to other pages in <a style="color: #6cb4ee; text-decoration: none;" href="#">blue</a>. Color code recommended is #6cb4ee.</p>
+<p style="font-size: 0.95em;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<!-- Contents Box (Collapsible via details/summary) --><details style="border: 1px solid rgba(162, 169, 177, 0.3); background-color: rgba(30, 32, 35, 0.45); padding: 10px 15px; margin: 20px 0; border-radius: 4px; width: fit-content; min-width: 240px; box-sizing: border-box; backdrop-filter: blur(4px);" open="">
+<summary style="font-weight: bold; cursor: pointer; outline: none; font-size: 0.9em; user-select: none; color: #ffffff;">Contents <span style="font-weight: normal; font-size: 0.85em; color: #6cb4ee;">[hide]</span></summary>
+<div style="font-size: 0.88em; margin-top: 10px; line-height: 1.6;">
+<div style="margin: 3px 0;"><strong>1</strong> Biography</div>
+<div style="margin: 3px 0;"><strong>2</strong> Career &amp; History</div>
+<div style="margin: 3px 0; padding-left: 15px;">2.1 Early Beginnings</div>
+<div style="margin: 3px 0; padding-left: 15px;">2.2 Major Projects</div>
+<div style="margin: 3px 0;"><strong>3</strong> Personal Life</div>
+<div style="margin: 3px 0;"><strong>4</strong> References</div>
+<div style="margin: 3px 0;"><strong>5</strong> External Links</div>
+</div>
+</details>
+<!-- ================================================== --> 
+<!-- ARTICLE SECTIONS --> 
+<!-- ================================================== -->
+<div style="margin-top: 30px;">
+<!-- Section 1: Biography -->
+<h2 style="font-family: 'Linux Libertine', Georgia, Times, serif; font-size: 1.5em; border-bottom: 1px solid rgba(162, 169, 177, 0.3); padding-bottom: 3px; margin-top: 25px; margin-bottom: 10px; font-weight: normal; color: #ffffff;">1 Biography</h2>
+<p style="font-size: 0.95em;">Bio goes here blah blah blah</p>
+<!-- Section 2: Career & History -->
+<h2 style="font-family: 'Linux Libertine', Georgia, Times, serif; font-size: 1.5em; border-bottom: 1px solid rgba(162, 169, 177, 0.3); padding-bottom: 3px; margin-top: 25px; margin-bottom: 10px; font-weight: normal; color: #ffffff;">2 Career &amp; History</h2>
+<p style="font-size: 0.95em;">Career and stuff blah blah</p>
+<!-- Subsection 2.1 -->
+<h3 style="font-size: 1.2em; margin-top: 15px; margin-bottom: 5px; font-weight: bold; color: #ffffff;">2.1 Early Beginnings</h3>
+<p style="font-size: 0.95em;">Lorem ipsum dolor sit amet consectetur adipiscing elit voluptas. Reprehenderit mollitia officia nam dolore occaecat. Detail how they first started out.</p>
+<!-- Subsection 2.2 -->
+<h3 style="font-size: 1.2em; margin-top: 15px; margin-bottom: 5px; font-weight: bold; color: #ffffff;">2.2 Major Projects</h3>
+<p style="font-size: 0.95em;">Lorem ipsum dolor sit amet consectetur adipiscing elit sed cupidatat libero id nostrud deleniti deserunt proident elit sunt fuga qui qui pariatur est deleniti libero.</p>
+<!-- Section 3: Personal Life -->
+<h2 style="font-family: 'Linux Libertine', Georgia, Times, serif; font-size: 1.5em; border-bottom: 1px solid rgba(162, 169, 177, 0.3); padding-bottom: 3px; margin-top: 25px; margin-bottom: 10px; font-weight: normal; color: #ffffff;">3 Personal Life</h2>
+<p style="font-size: 0.95em;">You guys got one of these????</p>
+<!-- Section 4: References -->
+<h2 style="font-family: 'Linux Libertine', Georgia, Times, serif; font-size: 1.5em; border-bottom: 1px solid rgba(162, 169, 177, 0.3); padding-bottom: 3px; margin-top: 25px; margin-bottom: 10px; font-weight: normal; color: #ffffff;">4 References</h2>
+<p style="font-size: 0.9em; color: #a2a9b1;">1. Example citation, source link, or world-building lore note description goes here.</p>
+<!-- Section 5: External Links -->
+<h2 style="font-family: 'Linux Libertine', Georgia, Times, serif; font-size: 1.5em; border-bottom: 1px solid rgba(162, 169, 177, 0.3); padding-bottom: 3px; margin-top: 25px; margin-bottom: 10px; font-weight: normal; color: #ffffff;">5 External Links</h2>
+<ul style="font-size: 0.95em; padding-left: 20px; margin-top: 5px;">
+<li style="margin-bottom: 4px;"><a style="color: #6cb4ee; text-decoration: none;" href="#" target="_blank" rel="noopener">Another official website or fan page link</a></li>
+<li style="margin-bottom: 4px;"><a style="color: #6cb4ee; text-decoration: none;" href="/character/serphs-code-lab" target="_blank" rel="noopener">code credit</a></li>
+</ul>
+</div>
+</div>
+<!-- ==================================================================== --> <!-- RIGHT COLUMN: INFOBOX SIDEBAR --> <!-- ==================================================================== -->
+<div style="width: 300px; max-width: 100%; border: 1px solid rgba(162, 169, 177, 0.3); background-color: rgba(30, 32, 35, 0.45); font-size: 0.88em; order: 2; box-sizing: border-box; margin: 0 auto; border-radius: 4px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.2); backdrop-filter: blur(4px);"><!-- Infobox Title Header -->
+<div style="background-color: rgba(45, 48, 54, 0.55); text-align: center; font-weight: bold; padding: 10px; font-size: 1.05em; border-bottom: 1px solid rgba(162, 169, 177, 0.3); color: #ffffff;">Name Here</div>
+<!-- Character Image & Caption Container -->
+<div style="padding: 12px; text-align: center; background-color: rgba(20, 22, 25, 0.35); border-bottom: 1px solid rgba(162, 169, 177, 0.3);"><img style="width: 100%; height: auto; display: block; border-radius: 2px;" src="https://i.imgur.com/Tk1ufPb.png" alt="Character Portrait">
+<div style="font-size: 0.78em; color: #a2a9b1; margin-top: 8px; text-align: center;">Photo caption goes here</div>
+</div>
+<!-- Infobox Sub-Header -->
+<div style="background-color: rgba(45, 48, 54, 0.55); text-align: center; font-weight: bold; padding: 7px 10px; border-bottom: 1px solid rgba(162, 169, 177, 0.3); font-size: 0.95em; color: #ffffff;">Background Information</div>
+<!-- Infobox Data Rows -->
+<div style="padding: 8px 12px; background-color: transparent;"><!-- Row 1: Birth Name -->
+<div style="display: flex; padding: 6px 0; border-bottom: 1px solid rgba(162, 169, 177, 0.2);">
+<div style="width: 38%; font-weight: 600; color: #d0d4dc; padding-right: 8px; box-sizing: border-box;">Birth name</div>
+<div style="width: 62%; color: #f8f9fa;">First Middle Last</div>
+</div>
+<!-- Row 2: Alias / Nickname -->
+<div style="display: flex; padding: 6px 0; border-bottom: 1px solid rgba(162, 169, 177, 0.2);">
+<div style="width: 38%; font-weight: 600; color: #d0d4dc; padding-right: 8px; box-sizing: border-box;">Also known as</div>
+<div style="width: 62%; color: #f8f9fa;">Nickname Here</div>
+</div>
+<!-- Row 3: Birth Date & Location -->
+<div style="display: flex; padding: 6px 0; border-bottom: 1px solid rgba(162, 169, 177, 0.2);">
+<div style="width: 38%; font-weight: 600; color: #d0d4dc; padding-right: 8px; box-sizing: border-box;">Born</div>
+<div style="width: 62%; color: #f8f9fa;">Month ##, #### (age ##)<br><a style="color: #6cb4ee; text-decoration: none;" href="#">City</a>, State, Country</div>
+</div>
+<!-- Row 4: Custom Stat 1 -->
+<div style="display: flex; padding: 6px 0; border-bottom: 1px solid rgba(162, 169, 177, 0.2);">
+<div style="width: 38%; font-weight: 600; color: #d0d4dc; padding-right: 8px; box-sizing: border-box;">Stat</div>
+<div style="width: 62%; color: #f8f9fa;">Statistic information. Remember to use <a style="color: #6cb4ee; text-decoration: none;" href="#" rel="noopener">#6cb4ee</a>, for words that will lead to other pages.</div>
+</div>
+<!-- Row 5: Custom Stat 2 -->
+<div style="display: flex; padding: 6px 0; border-bottom: 1px solid rgba(162, 169, 177, 0.2);">
+<div style="width: 38%; font-weight: 600; color: #d0d4dc; padding-right: 8px; box-sizing: border-box;">Stat</div>
+<div style="width: 62%; color: #f8f9fa;">Statistic information.</div>
+</div>
+<!-- Row 6: Custom Stat 3 -->
+<div style="display: flex; padding: 6px 0; border-bottom: 1px solid rgba(162, 169, 177, 0.2);">
+<div style="width: 38%; font-weight: 600; color: #d0d4dc; padding-right: 8px; box-sizing: border-box;">Stat</div>
+<div style="width: 62%; color: #f8f9fa;">Stat &bull; Info &bull; Here</div>
+</div>
+<!-- Row 7: Custom Stat 4 -->
+<div style="display: flex; padding: 6px 0; border-bottom: 1px solid rgba(162, 169, 177, 0.2);">
+<div style="width: 38%; font-weight: 600; color: #d0d4dc; padding-right: 8px; box-sizing: border-box;">Stat</div>
+<div style="width: 62%; color: #f8f9fa;">Stat &bull; Info &bull; Here</div>
+</div>
+<!-- Row 8: Custom Stat 5 -->
+<div style="display: flex; padding: 6px 0; border-bottom: 1px solid rgba(162, 169, 177, 0.2);">
+<div style="width: 38%; font-weight: 600; color: #d0d4dc; padding-right: 8px; box-sizing: border-box;">Stat</div>
+<div style="width: 62%; color: #f8f9fa;">Stat &bull; Info &bull; Here<br><span style="color: #a2a9b1; font-size: 0.9em;">Look on Wiki for what to put</span></div>
+</div>
+<!-- Row 9: Custom Stat 6 -->
+<div style="display: flex; padding: 6px 0;">
+<div style="width: 38%; font-weight: 600; color: #d0d4dc; padding-right: 8px; box-sizing: border-box;">Stat</div>
+<div style="width: 62%; color: #f8f9fa;">Statistic information.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
