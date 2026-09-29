@@ -1,0 +1,72 @@
+<!--
+  ========================================================================
+  CHARACTER PROFILE CARD: KEEPSAKE
+  ========================================================================
+   When you hover over the polaroid, it will show a tooltip.
+   Text can be edited via the live editor for easier access.
+
+  * ARTIST TOOLTIPS: Change title="" on the polaroid divs. 
+  * STICKY NOTE COLORS:
+    - Background: Change "background: #fdf5c9;" on the sticky note divs.
+    - Top header stripe/borders: Change "#f2e291" and "#dfd28d".
+  * TEXT COLORS:
+    - Headings/Titles: Change "color: #111;" or "#333;".
+    - Labels (e.g. pronouns...): Change "color: #555;".
+    - Values (e.g. pro/noun): Change "color: #222;".
+  * POLAROID IMAGES:
+    - Replace IMAGE-URL-1 and IMAGE-URL-2 with your actual image links.
+  ========================================================================
+-->
+<div style="display: flex; flex-direction: column; gap: 40px; width: 100%; max-width: 700px; margin: 0 auto; padding: 20px; box-sizing: border-box; font-family: monospace;">
+  
+  <!-- FIRST COMBO -->
+  <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; position: relative;">
+    
+    <!-- LEFT POLAROID -->
+    <div style="background: #ffffff; padding: 15px 15px 45px 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.2); transform: rotate(-2deg); width: 260px; box-sizing: border-box; position: relative; z-index: 2; margin-bottom: -20px; transition: transform 0.3s ease; cursor: pointer;" title="Art by Artist Name Here">
+      <div style="position: absolute; top: -18px; left: 50%; transform: translateX(-50%) rotate(1deg); width: 110px; height: 42px; background-image: url('https://i.imgur.com/4VysWYY.png'); background-size: contain; background-repeat: no-repeat; background-position: center; opacity: 0.85; z-index: 10; filter: drop-shadow(0 1px 2px rgba(0,0,0,0.15));">&nbsp;</div>
+      <div style="width: 100%; height: 230px; background-color: #ddd; background-image: url('IMAGE-URL-1'); background-size: cover; background-position: center;">&nbsp;</div>
+      <div style="font-family: 'Courier New', Courier, monospace; font-size: 14px; color: #444; padding-top: 12px; text-align: center;">Caption</div>
+    </div>
+
+    <!-- RIGHT STICKY NOTE -->
+    <div style="background: #fdf5c9; padding: 25px 20px; box-shadow: 4px 10px 25px rgba(0,0,0,0.15); transform: rotate(1.5deg); width: 280px; box-sizing: border-box; position: relative; z-index: 3; margin-left: -35px; margin-top: 15px; border-top: 4px solid #f2e291;">
+      <div style="font-size: 18px; font-weight: bold; color: #111; margin-bottom: 4px; border-bottom: 1.5px solid #dfd28d; padding-bottom: 6px;">Name</div>
+      <div style="font-size: 13px; color: #444; margin-bottom: 12px; font-style: italic;">Full name or Nickname</div>
+      <div style="display: flex; justify-content: space-between; font-size: 13px; margin-bottom: 6px; color: #222;"><span style="font-weight: bold; color: #555;">pronouns...</span>&nbsp;pro/noun</div>
+      <div style="display: flex; justify-content: space-between; font-size: 13px; margin-bottom: 6px; color: #222;"><span style="font-weight: bold; color: #555;">gender...</span>&nbsp;gender</div>
+      <div style="display: flex; justify-content: space-between; font-size: 13px; margin-bottom: 6px; color: #222;"><span style="font-weight: bold; color: #555;">orientation...</span>&nbsp;orientation</div>
+      <div style="display: flex; justify-content: space-between; font-size: 13px; margin-bottom: 6px; color: #222;"><span style="font-weight: bold; color: #555;">residence...</span>&nbsp;residence</div>
+      <div style="display: flex; justify-content: space-between; font-size: 13px; margin-bottom: 6px; color: #222;"><span style="font-weight: bold; color: #555;">ethnicity...</span>&nbsp;ethnicity</div>
+      <div style="display: flex; justify-content: space-between; font-size: 13px; margin-bottom: 6px; color: #222;"><span style="font-weight: bold; color: #555;">birthday...</span>&nbsp;birthdate</div>
+      <div style="display: flex; justify-content: space-between; font-size: 13px; color: #222;"><span style="font-weight: bold; color: #555;">height...</span>&nbsp;height</div>
+    </div>
+
+  </div>
+
+  <!-- SECOND COMBO -->
+  <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; position: relative; margin-top: 20px;">
+    
+    <!-- LEFT STICKY NOTE (BIOGRAPHY) -->
+    <div style="background: #fdf5c9; padding: 25px 20px; box-shadow: 4px 10px 25px rgba(0,0,0,0.15); transform: rotate(-1.5deg); width: 280px; box-sizing: border-box; position: relative; z-index: 3; margin-bottom: -20px; border-top: 4px solid #f2e291;">
+      <div style="font-size: 18px; font-weight: bold; color: #111; margin-bottom: 8px; border-bottom: 1.5px solid #dfd28d; padding-bottom: 6px;">Biography</div>
+      <div style="max-height: 180px; overflow-y: auto; background: transparent; scrollbar-width: none; -ms-overflow-style: none; padding-right: 2px;">
+        <div style="font-size: 13px; color: #333; line-height: 1.5; background: transparent;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
+      </div>
+    </div>
+
+    <!-- RIGHT POLAROID -->
+    <div style="background: #ffffff; padding: 15px 15px 45px 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.2); transform: rotate(1deg); width: 260px; box-sizing: border-box; position: relative; z-index: 2; margin-left: -35px; margin-top: 15px; cursor: pointer;" title="Art by Artist Name Here">
+      <div style="position: absolute; top: -18px; left: 45%; transform: translateX(-50%) rotate(-2deg); width: 110px; height: 42px; background-image: url('https://i.imgur.com/4VysWYY.png'); background-size: contain; background-repeat: no-repeat; background-position: center; opacity: 0.85; z-index: 10; filter: drop-shadow(0 1px 2px rgba(0,0,0,0.15));">&nbsp;</div>
+      <div style="width: 100%; height: 230px; background-color: #ccc; background-image: url('IMAGE-URL-2'); background-size: cover; background-position: center;">&nbsp;</div>
+      <div style="font-family: 'Courier New', Courier, monospace; font-size: 14px; color: #444; padding-top: 12px; text-align: center;">Caption 2</div>
+    </div>
+
+  </div>
+
+  <!-- CREDIT -->
+  <div style="text-align: right; width: 100%; margin-top: -10px;">
+    <a style="color: rgba(255, 255, 255, 0.6); font-size: 11px; text-decoration: none; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5); font-family: monospace;" href="/character/serphs-code-lab?new=0" target="_blank" rel="noopener">code</a>
+  </div>
+
+</div>
