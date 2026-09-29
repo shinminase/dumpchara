@@ -24,7 +24,7 @@
     
     <!-- LEFT POLAROID -->
     <div style="background: #ffffff; padding: 15px 15px 45px 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.2); transform: rotate(-2deg); width: 260px; box-sizing: border-box; position: relative; z-index: 2; margin-bottom: -20px; transition: transform 0.3s ease; cursor: pointer;" title="Art by Artist Name Here">
-      <div style="position: absolute; top: -18px; left: 50%; transform: translateX(-50%) rotate(1deg); width: 110px; height: 42px; background-image: url('https://i.imgur.com/4VysWYY.png'); background-size: contain; background-repeat: no-repeat; background-position: center; opacity: 0.85; z-index: 10; filter: drop-shadow(0 1px 2px rgba(0,0,0,0.15));">&nbsp;</div>
+      <div style="position: absolute; top: -18px; left: 50%; transform: translateX(-50%) rotate(1deg); width: 110px; height: 42px; background-image: url('https://cdn.characterhub.com/r/1280w/users/fd9e396d-4c73-4274-90d9-a0085c7a70c7/f4d8e04a-8999-429d-af03-f048524677da_l'); background-size: contain; background-repeat: no-repeat; background-position: center; opacity: 0.85; z-index: 10; filter: drop-shadow(0 1px 2px rgba(0,0,0,0.15));">&nbsp;</div>
       <div style="width: 100%; height: 230px; background-color: #ddd; background-image: url('IMAGE-URL-1'); background-size: cover; background-position: center;">&nbsp;</div>
       <div style="font-family: 'Courier New', Courier, monospace; font-size: 14px; color: #444; padding-top: 12px; text-align: center;">Caption</div>
     </div>
@@ -57,7 +57,7 @@
 
     <!-- RIGHT POLAROID -->
     <div style="background: #ffffff; padding: 15px 15px 45px 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.2); transform: rotate(1deg); width: 260px; box-sizing: border-box; position: relative; z-index: 2; margin-left: -35px; margin-top: 15px; cursor: pointer;" title="Art by Artist Name Here">
-      <div style="position: absolute; top: -18px; left: 45%; transform: translateX(-50%) rotate(-2deg); width: 110px; height: 42px; background-image: url('https://i.imgur.com/4VysWYY.png'); background-size: contain; background-repeat: no-repeat; background-position: center; opacity: 0.85; z-index: 10; filter: drop-shadow(0 1px 2px rgba(0,0,0,0.15));">&nbsp;</div>
+      <div style="position: absolute; top: -18px; left: 45%; transform: translateX(-50%) rotate(-2deg); width: 110px; height: 42px; background-image: url('https://cdn.characterhub.com/r/1280w/users/fd9e396d-4c73-4274-90d9-a0085c7a70c7/f4d8e04a-8999-429d-af03-f048524677da_l'); background-size: contain; background-repeat: no-repeat; background-position: center; opacity: 0.85; z-index: 10; filter: drop-shadow(0 1px 2px rgba(0,0,0,0.15));">&nbsp;</div>
       <div style="width: 100%; height: 230px; background-color: #ccc; background-image: url('IMAGE-URL-2'); background-size: cover; background-position: center;">&nbsp;</div>
       <div style="font-family: 'Courier New', Courier, monospace; font-size: 14px; color: #444; padding-top: 12px; text-align: center;">Caption 2</div>
     </div>
