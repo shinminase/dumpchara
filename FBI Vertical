@@ -1,0 +1,125 @@
+<!--
+  ========================================================================
+  CHARACTER PROFILE CARD: FBI ID CARD | VERTICAL
+  ========================================================================
+  MAIN PALETTE & CONFIGURATION (Edit these hex codes to customize):
+  * Dark Blue Headers/Footers (#112a46 / #0b1d30) : Main banners & bottom bar
+  * Card Outer Border & Backing (#b0bac5 / #eef2f5) : Outer container colors
+  * Details / Content Background (#ffffff)          : Inner white content area
+  * Primary Text & Headings (#111111 / #122a46)     : Names, labels, titles
+  * Muted Text & Dashed Lines (#555555 / #d0d7de)   : Labels, secondary details
+  * ID Number Accent (#b30000)                      : Red badge/ID highlights
+  
+  BACKGROUND PATTERN INSTRUCTIONS:
+  * To add a custom background pattern to the dark blue headers/footers, 
+    replace `none` inside the `background-image` properties below with:
+    `url('YOUR_IMAGE_URL')`
+
+  SEAL & ID PHOTO INSTRUCTIONS:
+  * Change the URLs below to your own IMAGE url
+  * FBI Seal URL: https://i.imgur.com/l4pZqvp.png | ID Photo URL: https://i.imgur.com/qYIf0cp.png
+  ========================================================================
+-->
+<div style="display: flex; justify-content: center; width: 100%;">
+  <div style="width: 380px; background: #eef2f5; border: 2px solid #b0bac5; border-radius: 12px; overflow: hidden; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; box-shadow: 0 10px 25px rgba(0,0,0,0.2); position: relative; box-sizing: border-box;">
+    
+    <!-- TOP BANNER (FBI Header - Solid Color / Optional Pattern) -->
+    <div style="background-color: #112a46; background-image: none; background-size: cover; background-position: center; padding: 12px 18px 10px 18px; border-bottom: 4px solid #0b1d30; position: relative; box-sizing: border-box;">
+      
+      <!-- Lanyard slot -->
+      <div style="width: 60px; height: 14px; background: #07121e; border-radius: 7px; margin: 0 auto 10px auto; border: 1px solid rgba(255,255,255,0.1);">&nbsp;</div>
+      
+      <div style="display: flex; align-items: center; justify-content: space-between;">
+        
+        <!-- FBI SEAL IMAGE (88px) -->
+        <div style="width: 88px; height: 88px; border-radius: 0px; overflow: hidden; flex-shrink: 0; background: transparent; display: flex; align-items: center; justify-content: center; box-sizing: border-box;">
+          <img style="width: 100%; height: 100%; object-fit: contain; display: block;" src="https://i.imgur.com/l4pZqvp.png" alt="FBI Seal">
+        </div>
+
+        <!-- FBI Text -->
+        <div style="color: #ffffff; font-size: 74px; font-weight: 900; letter-spacing: 1px; font-family: Impact, sans-serif; text-shadow: 2px 2px 0px rgba(0,0,0,0.4); line-height: 0.85; margin-top: 4px;">FBI</div>
+      </div>
+    </div>
+
+    <!-- MIDDLE CONTENT AREA -->
+    <div style="padding: 15px 20px; background: #ffffff; position: relative; box-sizing: border-box;">
+      
+      <!-- Title / Role -->
+      <div style="font-size: 14px; font-weight: 800; color: #112a46; font-style: italic; letter-spacing: 1px; margin-bottom: 10px; border-bottom: 2px solid #112a46; padding-bottom: 3px;">SPECIAL AGENT</div>
+
+      <!-- Main Grid: Left Scrollable Info & Right Photo -->
+      <div style="display: flex; gap: 12px; align-items: flex-start; margin-bottom: 10px;">
+        
+        <!-- SCROLLING INFO CONTAINER -->
+        <div style="flex: 1; height: 165px; overflow-y: auto; padding-right: 4px; scrollbar-width: thin; scrollbar-color: transparent transparent;">
+          
+          <div style="font-size: 8.5px; font-weight: bold; color: #555555; text-transform: uppercase; letter-spacing: 0.5px;">NAME</div>
+          <div style="font-size: 12px; font-weight: 800; font-style: normal; color: #111111; margin-bottom: 5px; line-height: 1.1;">WILLIAM A. GRAHAM</div>
+
+          <div style="font-size: 8.5px; font-weight: bold; color: #555555; text-transform: uppercase; letter-spacing: 0.5px;">BADGE NO.</div>
+          <div style="font-size: 11px; font-weight: bold; font-style: normal; color: #111111; margin-bottom: 5px; letter-spacing: 0.5px;">9527829</div>
+
+          <div style="font-size: 8.5px; font-weight: bold; color: #555555; text-transform: uppercase; letter-spacing: 0.5px;">ID NO.</div>
+          <div style="font-size: 11px; font-weight: bold; font-style: normal; color: #b30000; margin-bottom: 6px; letter-spacing: 0.5px;">261147</div>
+
+          <!-- Traits Bar -->
+          <div style="border-top: 1px dashed #d0d7de; padding-top: 6px; margin-top: 2px;">
+            
+            <div style="font-size: 8.5px; font-weight: bold; color: #555555; text-transform: uppercase; letter-spacing: 0.5px;">PRONOUNS</div>
+            <div style="font-size: 11px; font-weight: bold; font-style: normal; color: #111111; margin-bottom: 5px; letter-spacing: 0.5px;">He / Him</div>
+
+            <div style="font-size: 8.5px; font-weight: bold; color: #555555; text-transform: uppercase; letter-spacing: 0.5px;">GENDER</div>
+            <div style="font-size: 11px; font-weight: bold; font-style: normal; color: #111111; margin-bottom: 5px; letter-spacing: 0.5px;">Male</div>
+
+            <div style="font-size: 8.5px; font-weight: bold; color: #555555; text-transform: uppercase; letter-spacing: 0.5px;">NATIONALITY</div>
+            <div style="font-size: 11px; font-weight: bold; font-style: normal; color: #111111; margin-bottom: 5px; letter-spacing: 0.5px;">American</div>
+
+            <div style="font-size: 8.5px; font-weight: bold; color: #555555; text-transform: uppercase; letter-spacing: 0.5px;">BIRTHDAY</div>
+            <div style="font-size: 11px; font-weight: bold; font-style: normal; color: #111111; margin-bottom: 5px; letter-spacing: 0.5px;">June 19, 1939</div>
+
+            <div style="font-size: 8.5px; font-weight: bold; color: #555555; text-transform: uppercase; letter-spacing: 0.5px;">RESIDENCE</div>
+            <div style="font-size: 11px; font-weight: bold; font-style: normal; color: #111111; margin-bottom: 2px; letter-spacing: 0.5px;">Wolf Trap, Virginia</div>
+
+          </div>
+        </div>
+
+        <!-- PHOTO -->
+        <div style="width: 130px; height: 150px; background: transparent; border-radius: 3px; overflow: hidden; flex-shrink: 0; box-shadow: 0 2px 5px rgba(0,0,0,0.1); margin-top: 2px; margin-bottom: 30px;">
+          <img style="width: 100%; height: 100%; object-fit: cover; filter: grayscale(20%); display: block;" src="https://i.imgur.com/qYIf0cp.png" alt="ID Photo">
+        </div>
+
+      </div>
+
+      <!-- BIOGRAPHY SECTION -->
+      <div style="border-top: 1px solid #d0d7de; padding-top: 6px; margin-bottom: 6px;">
+        <div style="font-size: 8.5px; font-weight: bold; color: #555555; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 2px;">BIOGRAPHY</div>
+        <div style="height: 130px; overflow-y: auto; scrollbar-width: thin; scrollbar-color: transparent transparent; padding-right: 2px;">
+          <p style="font-size: 10.5px; font-weight: 400; color: #333333; line-height: 1.3; margin: 0 0 5px 0;">Lorem ipsum dolor sit amet consectetur adipiscing elit. Nobis expedita excepteur anim quibusdam aut non amet.</p>
+          <p style="font-size: 10.5px; font-weight: 400; color: #333333; line-height: 1.3; margin: 0 0 5px 0;">Elit nobis sit ut qui nobis sed ut possimus excepturi. Officia minim eligendi ullamco est eu velit nisi amet. Dolore velit ut excepturi at dolore atque dolor voluptas tempor voluptate. Soluta et lorem omnis dignissimos eligendi est facere consectetur sit. Quos aliquip quidem temporibus ipsum lorem quos provident quod placeat rerum aute. Possimus et molestias et qui deleniti pariatur et pariatur. Sit dolorem quo in id quas aliquip ut.</p>
+          <p style="font-size: 10.5px; font-weight: 400; color: #333333; line-height: 1.3; margin: 0 0 5px 0;">Expedita accusamus sed pariatur cupidatat temporibus nobis nisi. Facilis blanditiis proident quidem occaecat animi minus anim enim laborum. Elit ut incididunt deleniti aut nam tempore occaecat qui laboris incididunt. Quo in deserunt aute tempore illum non temporibus qui qui aliquip. Eu nobis accusamus in vero et.</p>
+        </div>
+      </div>
+
+      <!-- SIGNATURE SECTION -->
+      <div style="border-top: 1px solid #d0d7de; padding-top: 6px;">
+        <div style="font-size: 8.5px; font-weight: bold; color: #666666; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 2px;">SIGNATURE</div>
+        <div style="height: 24px; display: flex; align-items: center; justify-content: center; overflow: hidden;">
+          <div style="font-family: 'Brush Script MT', cursive, sans-serif; font-size: 24px; color: #1a1a1a; transform: none; font-style: normal; line-height: 1;">Will Graham</div>
+        </div>
+        <div style="border-bottom: 1px solid #111111; width: 100%; margin-top: 1px;">&nbsp;</div>
+      </div>
+
+    </div>
+
+    <!-- BOTTOM FOOTER -->
+    <div style="background-color: #112a46; background-image: none; background-size: cover; background-position: center; padding: 10px 15px; border-top: 3px solid #0b1d30; display: flex; align-items: center; justify-content: space-between; box-sizing: border-box;">
+      
+      <!-- CODE CREDIT -->
+      <a style="color: rgba(255,255,255,0.4); font-size: 6px; font-weight: bold; text-decoration: none; letter-spacing: 0.5px; font-family: monospace; flex-shrink: 0; padding-right: 12px; border-right: 1px solid rgba(255,255,255,0.15); transition: color 0.2s;" href="https://characterhub.com/character/serphs-code-lab?v=1" target="_blank" rel="noopener">CODE</a>
+      
+      <!-- CERTIFICATION TEXT -->
+      <div style="color: #ffffff; font-size: 7.5px; font-weight: 600; line-height: 1.3; letter-spacing: 0.3px; text-transform: uppercase; opacity: 0.9; text-align: center; flex: 1; padding-left: 10px;">This is to certify that whose signature and photograph appear hereon, is a regularly appointed special agent of the FBI.</div>
+    </div>
+
+  </div>
+</div>
